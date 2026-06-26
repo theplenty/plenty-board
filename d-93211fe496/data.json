@@ -1,7 +1,7 @@
 {
   "meta": {
     "day": "2026-06-25",
-    "generated_at": "2026-06-26T15:22:14.324405+09:00",
+    "generated_at": "2026-06-26T16:44:45.814486+09:00",
     "brand": "PLENTY CONVENTION",
     "slogan": "for the every plenty moments"
   },
@@ -155,8 +155,8 @@
   ],
   "reputation": {
     "stats": {
-      "total": 54,
-      "positive": 6,
+      "total": 52,
+      "positive": 7,
       "negative": 0,
       "high": 0,
       "med": 0
@@ -192,16 +192,9 @@
       {
         "title": "[플래너 분석] 27년 결혼 예정, 서초 플렌티컨벤션 주목해야...",
         "url": "https://blog.naver.com/juliawed/224313191105",
-        "sentiment": "positive",
-        "channel": "blog",
-        "date": "2026-06-11"
-      },
-      {
-        "title": "강남 웨딩홀 투어 #3 고속터미널 플렌티 컨벤션 고급스러운...",
-        "url": "https://blog.naver.com/lloly111/224308336834",
         "sentiment": "neutral",
         "channel": "blog",
-        "date": "2026-06-07"
+        "date": "2026-06-11"
       },
       {
         "title": "[서초/반포] 플렌티 컨벤션 하객 방문 솔직 후기! 복잡하지 않고...",
@@ -216,13 +209,6 @@
         "sentiment": "neutral",
         "channel": "news",
         "date": "2026-05-18"
-      },
-      {
-        "title": "주차 200대 4시간지원 가능한 서울웨딩홀 플렌티컨벤션웨딩",
-        "url": "https://blog.naver.com/pp1538/224254332610",
-        "sentiment": "neutral",
-        "channel": "blog",
-        "date": "2026-04-23"
       },
       {
         "title": "[서초 / 성모병원] 플렌티컨벤션 웨딩 서울어두운웨딩홀 (식사...",
@@ -246,6 +232,41 @@
         "date": "2025-12-29"
       },
       {
+        "title": "플렌티컨벤션 코스 후기. 시식 다녀왔어요!",
+        "url": "http://cafe.naver.com/ssekzoa/676312",
+        "sentiment": "neutral",
+        "channel": "cafe",
+        "date": ""
+      },
+      {
+        "title": "플렌티컨벤션 견적후기 (계약o)",
+        "url": "http://cafe.naver.com/makemywedding/553674",
+        "sentiment": "neutral",
+        "channel": "cafe",
+        "date": ""
+      },
+      {
+        "title": "반포 플렌티컨벤션 베뉴 후기(계약o)",
+        "url": "http://cafe.naver.com/makemywedding/493235",
+        "sentiment": "neutral",
+        "channel": "cafe",
+        "date": ""
+      },
+      {
+        "title": "반포 플렌티 컨벤션(선택O)",
+        "url": "http://cafe.naver.com/makemywedding/432127",
+        "sentiment": "neutral",
+        "channel": "cafe",
+        "date": ""
+      },
+      {
+        "title": "옴니버스파크 플렌티컨벤션(계약O)",
+        "url": "http://cafe.naver.com/makemywedding/355851",
+        "sentiment": "neutral",
+        "channel": "cafe",
+        "date": ""
+      },
+      {
         "title": "[강남웨딩홀] 플렌티컨벤션 상담 후기!",
         "url": "http://cafe.naver.com/poohstory/327852",
         "sentiment": "neutral",
@@ -255,27 +276,6 @@
       {
         "title": "플렌티컨벤션 상담 다녀온 후 후기 공유해요!!",
         "url": "http://cafe.naver.com/ssekzoa/679207",
-        "sentiment": "neutral",
-        "channel": "cafe",
-        "date": ""
-      },
-      {
-        "title": "플렌티컨벤션",
-        "url": "http://cafe.naver.com/marverlove/358071",
-        "sentiment": "neutral",
-        "channel": "cafe",
-        "date": ""
-      },
-      {
-        "title": "강남웨딩홀 플렌티컨벤션 하객 후기!",
-        "url": "http://cafe.naver.com/llchyll/2498116",
-        "sentiment": "neutral",
-        "channel": "cafe",
-        "date": ""
-      },
-      {
-        "title": "플렌티컨벤션 식대 견적 3가지 팁으로 비용 절감",
-        "url": "http://cafe.naver.com/ourman/140798",
         "sentiment": "neutral",
         "channel": "cafe",
         "date": ""
@@ -566,8 +566,7 @@
         "name": "엘리에나 호텔",
         "exposure": [
           "강남 웨딩홀",
-          "논현 웨딩홀",
-          "호텔 웨딩"
+          "논현 웨딩홀"
         ],
         "promos": [
           {
@@ -673,6 +672,12 @@
         ],
         "posts": [
           {
+            "title": "[웨딩홀] 양재 엘타워 그레이스홀 2027년 견적 공유 및 홀...",
+            "url": "https://blog.naver.com/ko_ongg/224328045602",
+            "date": "2026-06-26",
+            "channel": "blog"
+          },
+          {
             "title": "양재 엘타워 6층 그레이스홀 하객 후기",
             "url": "https://blog.naver.com/ksluv05/224327896691",
             "date": "2026-06-26",
@@ -694,12 +699,6 @@
             "title": "양재 엘타워 그레이스홀 하객... 맛있었던 육각형 웨딩홀",
             "url": "https://blog.naver.com/wooorldwise/224326771979",
             "date": "2026-06-25",
-            "channel": "blog"
-          },
-          {
-            "title": "6월도 바쁘긴 했어: 제주, 영등포 결혼식, 엘타워 행사",
-            "url": "https://blog.naver.com/m231257/224325399624",
-            "date": "2026-06-24",
             "channel": "blog"
           }
         ]
@@ -781,6 +780,18 @@
         ],
         "promos": [
           {
+            "title": "웨딩포토부스 - 플로팅아일랜드 심플큐브 포토부스 계약 후기",
+            "url": "https://blog.naver.com/minngsuu/224315229259",
+            "date": "2026-06-14",
+            "channel": "blog"
+          },
+          {
+            "title": "EP2-2. 웨딩홀 대탐험(플로팅아일랜드)",
+            "url": "https://blog.naver.com/hhehh369/224309473315",
+            "date": "2026-06-08",
+            "channel": "blog"
+          },
+          {
             "title": "세빛섬 플로팅아일랜드 오키드홀 돌잔치 후기 | 한강뷰...",
             "url": "https://blog.naver.com/khn46061/224309613492",
             "date": "2026-06-08",
@@ -799,7 +810,20 @@
             "channel": "blog"
           }
         ],
-        "posts": []
+        "posts": [
+          {
+            "title": "[견적공유] 한강 플로팅아일랜드 (한강공원주차x, 주차문제 해결되어있습니다)",
+            "url": "http://cafe.naver.com/directwedding/9100284",
+            "date": "",
+            "channel": "cafe"
+          },
+          {
+            "title": "플로팅아일랜드 식대 견적 7가지 절약 방법",
+            "url": "http://cafe.naver.com/ourman/218182",
+            "date": "",
+            "channel": "cafe"
+          }
+        ]
       }
     ]
   },
