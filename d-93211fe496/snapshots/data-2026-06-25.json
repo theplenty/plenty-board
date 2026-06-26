@@ -1,7 +1,7 @@
 {
   "meta": {
     "day": "2026-06-25",
-    "generated_at": "2026-06-26T14:59:51.203495+09:00",
+    "generated_at": "2026-06-26T15:22:14.324405+09:00",
     "brand": "PLENTY CONVENTION",
     "slogan": "for the every plenty moments"
   },
@@ -9,17 +9,17 @@
     "cost": 723333.0,
     "clicks": 446.0,
     "conv": 4.0,
-    "roas": 581.3,
+    "cpa": 180833,
     "ctr": 2.53,
     "cpc": 1621,
     "cost_delta": 12305,
     "clicks_delta": 22200,
     "cpc_delta": -44,
-    "roas_delta": null,
+    "cpa_delta": null,
     "glossary": {
       "ctr": "100회 노출당 2.5회 클릭",
       "cpc": "클릭 1회 당 1,621원",
-      "roas": "광고비 1원 → 5.81원 매출"
+      "cpa": "전환(문의·예약) 1건당 광고비 180,833원"
     }
   },
   "adTrend": {
@@ -151,12 +151,12 @@
   ],
   "actions": [
     "➕ 새 키워드 추가 검토: \"플렌티컨벤션\", \"플렌티 웨딩\", \"PLENTY 웨딩\" — 검색 트렌드 상승 중인데 우리가 광고 안 하고 있음",
-    "⚠️ 어제 ROAS 0% — 전환 추적이 끊겼는지 픽셀/스크립트 확인 필요"
+    "⚠️ 어제 전환 0건인데 광고비 지출 — 전환단가(CPA) 산출 불가. 전환 추적(픽셀/스크립트) 확인 필요"
   ],
   "reputation": {
     "stats": {
       "total": 54,
-      "positive": 7,
+      "positive": 6,
       "negative": 0,
       "high": 0,
       "med": 0
@@ -192,7 +192,7 @@
       {
         "title": "[플래너 분석] 27년 결혼 예정, 서초 플렌티컨벤션 주목해야...",
         "url": "https://blog.naver.com/juliawed/224313191105",
-        "sentiment": "neutral",
+        "sentiment": "positive",
         "channel": "blog",
         "date": "2026-06-11"
       },
@@ -246,36 +246,36 @@
         "date": "2025-12-29"
       },
       {
-        "title": "플렌티컨벤션 코스 후기. 시식 다녀왔어요!",
-        "url": "http://cafe.naver.com/ssekzoa/676312",
+        "title": "[강남웨딩홀] 플렌티컨벤션 상담 후기!",
+        "url": "http://cafe.naver.com/poohstory/327852",
         "sentiment": "neutral",
         "channel": "cafe",
         "date": ""
       },
       {
-        "title": "플렌티컨벤션 견적후기 (계약o)",
-        "url": "http://cafe.naver.com/makemywedding/553674",
+        "title": "플렌티컨벤션 상담 다녀온 후 후기 공유해요!!",
+        "url": "http://cafe.naver.com/ssekzoa/679207",
         "sentiment": "neutral",
         "channel": "cafe",
         "date": ""
       },
       {
-        "title": "반포 플렌티컨벤션 베뉴 후기(계약o)",
-        "url": "http://cafe.naver.com/makemywedding/493235",
+        "title": "플렌티컨벤션",
+        "url": "http://cafe.naver.com/marverlove/358071",
         "sentiment": "neutral",
         "channel": "cafe",
         "date": ""
       },
       {
-        "title": "반포 플렌티 컨벤션(선택O)",
-        "url": "http://cafe.naver.com/makemywedding/432127",
+        "title": "강남웨딩홀 플렌티컨벤션 하객 후기!",
+        "url": "http://cafe.naver.com/llchyll/2498116",
         "sentiment": "neutral",
         "channel": "cafe",
         "date": ""
       },
       {
-        "title": "옴니버스파크 플렌티컨벤션(계약O)",
-        "url": "http://cafe.naver.com/makemywedding/355851",
+        "title": "플렌티컨벤션 식대 견적 3가지 팁으로 비용 절감",
+        "url": "http://cafe.naver.com/ourman/140798",
         "sentiment": "neutral",
         "channel": "cafe",
         "date": ""
@@ -775,74 +775,31 @@
         ]
       },
       {
-        "name": "세빛섬",
+        "name": "플로팅아일랜드",
         "exposure": [
           "한강 웨딩홀"
         ],
         "promos": [
           {
-            "title": "외국의 수상 도시인 줄 알았네&quot;… 물 위에 뜬 네 개의 보석 '세빛섬'",
-            "url": "https://blog.naver.com/awesome0254/224322554598",
-            "date": "2026-06-24",
+            "title": "세빛섬 플로팅아일랜드 오키드홀 돌잔치 후기 | 한강뷰...",
+            "url": "https://blog.naver.com/khn46061/224309613492",
+            "date": "2026-06-08",
             "channel": "blog"
           },
           {
-            "title": "하지(夏至), 세빛섬에서 만난 서울의 여름",
-            "url": "https://blog.naver.com/khgab/224322814961",
-            "date": "2026-06-21",
+            "title": "세빛섬 플로팅아일랜드 주차 가격 식대 파악해본 후기",
+            "url": "https://blog.naver.com/jwvoice/224268217336",
+            "date": "2026-04-28",
             "channel": "blog"
           },
           {
-            "title": "서울 반포, &quot;채빛퀴진&quot; 반포 세빛섬에서 즐기는 고퀄리티 뷔페...",
-            "url": "https://blog.naver.com/jinhwan910/224322221703",
-            "date": "2026-06-21",
-            "channel": "blog"
-          },
-          {
-            "title": "19개월 아기랑 함께 세빛섬 뷔페방문기 (채빛퀴진)",
-            "url": "https://blog.naver.com/youtopia153/224314857976",
-            "date": "2026-06-13",
-            "channel": "blog"
-          },
-          {
-            "title": "세빛섬 플로팅아일랜드 웨딩홀 실시간 견적 후기",
-            "url": "https://blog.naver.com/tdayflower/224312150591",
-            "date": "2026-06-10",
+            "title": "2026 하반기 세빛섬 플로팅아일랜드 웨딩홀 견적...",
+            "url": "https://blog.naver.com/zbxlapf3533/224163905044",
+            "date": "2026-01-29",
             "channel": "blog"
           }
         ],
-        "posts": [
-          {
-            "title": "거북이 수족관 플로팅 아일랜드 도크 어항 장식 세트 구성과...",
-            "url": "https://blog.naver.com/nuwaccuse/224327761091",
-            "date": "2026-06-26",
-            "channel": "blog"
-          },
-          {
-            "title": "세빛섬 플로팅아일랜드 웨딩홀 아이폰스냅 릴리오브러브...",
-            "url": "https://blog.naver.com/lily_of_love/224327162403",
-            "date": "2026-06-25",
-            "channel": "blog"
-          },
-          {
-            "title": "[웨딩홀투어] 한강세빛섬 플로팅아일랜드 웨딩 솔직후기, (무료...",
-            "url": "https://blog.naver.com/gghyun_/224326852774",
-            "date": "2026-06-25",
-            "channel": "blog"
-          },
-          {
-            "title": "반포한강공원 세빛섬, 무지개분수쇼 관람",
-            "url": "https://blog.naver.com/k2000sun/224325622053",
-            "date": "2026-06-24",
-            "channel": "blog"
-          },
-          {
-            "title": "세빛섬 플로팅 아일랜드 웨딩 하객 솔직 후기 _ 노을뷰는 최고!",
-            "url": "https://blog.naver.com/robinyou/224323946288",
-            "date": "2026-06-22",
-            "channel": "blog"
-          }
-        ]
+        "posts": []
       }
     ]
   },
@@ -887,7 +844,7 @@
         "promo": "잔여타임"
       },
       {
-        "name": "세빛섬(FIC)",
+        "name": "플로팅아일랜드(FIC)",
         "loc": "반포 한강",
         "pos": "한강 선상",
         "price": "6.8~14.5만",
