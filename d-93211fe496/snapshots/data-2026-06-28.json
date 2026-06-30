@@ -1,7 +1,7 @@
 {
   "meta": {
     "day": "2026-06-28",
-    "generated_at": "2026-06-29T09:03:57.127213+09:00",
+    "generated_at": "2026-06-29T12:44:45.375853+09:00",
     "brand": "PLENTY CONVENTION",
     "slogan": "for the every plenty moments"
   },
@@ -201,7 +201,7 @@
       {
         "title": "[플래너 분석] 27년 결혼 예정, 서초 플렌티컨벤션 주목해야...",
         "url": "https://blog.naver.com/juliawed/224313191105",
-        "sentiment": "positive",
+        "sentiment": "neutral",
         "channel": "blog",
         "date": "2026-06-11"
       },
@@ -234,48 +234,6 @@
         "date": "2026-02-25"
       },
       {
-        "title": "서초 반포 플렌티컨벤션 26년 10월 견적 공유 - 잔여타임 혜택ㅇ(계약ㅇ)",
-        "url": "http://cafe.naver.com/makemywedding/648474",
-        "sentiment": "neutral",
-        "channel": "cafe",
-        "date": ""
-      },
-      {
-        "title": "[서울/서초구] 플렌티 컨벤션",
-        "url": "http://cafe.naver.com/poohstory/262961",
-        "sentiment": "neutral",
-        "channel": "cafe",
-        "date": ""
-      },
-      {
-        "title": "서울 강남 동시예식 장소 - 플렌티 컨벤션 - 본식 찐후기!",
-        "url": "http://cafe.naver.com/makemywedding/575377",
-        "sentiment": "neutral",
-        "channel": "cafe",
-        "date": ""
-      },
-      {
-        "title": "플렌티컨벤션 본식후기",
-        "url": "http://cafe.naver.com/makemywedding/569598",
-        "sentiment": "positive",
-        "channel": "cafe",
-        "date": ""
-      },
-      {
-        "title": "[웨딩베뉴 추천업체] 플렌티 컨벤션",
-        "url": "http://cafe.naver.com/makemywedding/390814",
-        "sentiment": "positive",
-        "channel": "cafe",
-        "date": ""
-      },
-      {
-        "title": "[제휴] 화제의 베뉴! 플렌티 컨벤션 X 메이크마이웨딩 제휴 단독 혜택 안내 (100만원 상당의 옵션 무료 제공...",
-        "url": "http://cafe.naver.com/makemywedding/387166",
-        "sentiment": "neutral",
-        "channel": "cafe",
-        "date": ""
-      },
-      {
         "title": "[강남웨딩홀] 플렌티컨벤션 상담 후기!",
         "url": "http://cafe.naver.com/poohstory/327852",
         "sentiment": "neutral",
@@ -285,6 +243,48 @@
       {
         "title": "플렌티컨벤션 상담 다녀온 후 후기 공유해요!!",
         "url": "http://cafe.naver.com/ssekzoa/679207",
+        "sentiment": "neutral",
+        "channel": "cafe",
+        "date": ""
+      },
+      {
+        "title": "플렌티컨벤션 식대 견적 안내",
+        "url": "http://cafe.naver.com/ourman/85177",
+        "sentiment": "neutral",
+        "channel": "cafe",
+        "date": ""
+      },
+      {
+        "title": "서초 반포 플렌티컨벤션 26년 10월 견적 공유 - 잔여타임 혜택ㅇ(계약ㅇ)",
+        "url": "http://cafe.naver.com/makemywedding/648474",
+        "sentiment": "positive",
+        "channel": "cafe",
+        "date": ""
+      },
+      {
+        "title": "사장님귀는당나귀귀 남현종 아나운서 웨딩홀 투어편 보셨나요? 플렌티컨벤션",
+        "url": "http://cafe.naver.com/directwedding/8870926",
+        "sentiment": "neutral",
+        "channel": "cafe",
+        "date": ""
+      },
+      {
+        "title": "플렌티 컨벤션 웨딩홀 투어 후기 다녀왔어요~ (사진도투척해요^^)",
+        "url": "http://cafe.naver.com/llchyll/2457705",
+        "sentiment": "neutral",
+        "channel": "cafe",
+        "date": ""
+      },
+      {
+        "title": "강남/서초 고속터미널 옆 반포에 위치한 플렌티컨벤션 상담 후기 (가견적가 포함)",
+        "url": "http://cafe.naver.com/llchyll/2414495",
+        "sentiment": "neutral",
+        "channel": "cafe",
+        "date": ""
+      },
+      {
+        "title": "[서울/서초구] 플렌티 컨벤션",
+        "url": "http://cafe.naver.com/poohstory/262961",
         "sentiment": "neutral",
         "channel": "cafe",
         "date": ""
@@ -646,7 +646,6 @@
       {
         "name": "엘타워",
         "exposure": [
-          "강남 웨딩홀",
           "서초 웨딩홀",
           "양재 웨딩홀"
         ],
@@ -717,9 +716,7 @@
       },
       {
         "name": "그랜드힐컨벤션",
-        "exposure": [
-          "강남 웨딩홀"
-        ],
+        "exposure": [],
         "promos": [
           {
             "title": "서울 예식장 :: 강남 그랜드힐컨벤션 결혼식에서 만족스러웠던...",
@@ -891,8 +888,8 @@
     ]
   },
   "content": {
-    "cardsConcept": "호텔 예식 고민 중이라면 — 단독홀이라는 또 다른 선택",
-    "cardsCount": 8,
-    "cardsCover": "B2_02207.JPG"
+    "cardsConcept": "",
+    "cardsCount": 0,
+    "cardsCover": null
   }
 }
