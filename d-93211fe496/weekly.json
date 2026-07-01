@@ -5,16 +5,16 @@
   ],
   "generated_at": "2026-07-01T09:03:11.102899+09:00",
   "totals": {
-    "spend": 158839,
-    "clicks": 52,
+    "spend": 176990,
+    "clicks": 193,
     "conv": 0,
     "cpa": 0
   },
   "channels": [
     {
       "name": "naver",
-      "spend": 158839,
-      "clicks": 52,
+      "spend": 176990,
+      "clicks": 193,
       "conv": 0,
       "cpa": 0
     }

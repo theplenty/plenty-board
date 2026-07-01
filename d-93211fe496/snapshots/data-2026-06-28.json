@@ -6,19 +6,19 @@
     "slogan": "for the every plenty moments"
   },
   "kpi": {
-    "cost": 25331.0,
-    "clicks": 8.0,
+    "cost": 27833.0,
+    "clicks": 39.0,
     "conv": 0.0,
     "cpa": 0,
-    "ctr": 1.47,
-    "cpc": 3166,
-    "cost_delta": 40,
-    "clicks_delta": 33,
-    "cpc_delta": 5,
+    "ctr": 3.23,
+    "cpc": 713,
+    "cost_delta": 41,
+    "clicks_delta": 22,
+    "cpc_delta": 16,
     "cpa_delta": null,
     "glossary": {
-      "ctr": "100회 노출당 1.5회 클릭",
-      "cpc": "클릭 1회 당 3,166원",
+      "ctr": "100회 노출당 3.2회 클릭",
+      "cpc": "클릭 1회 당 713원",
       "cpa": "어제 전환 0건 — 전환단가 없음"
     }
   },
@@ -54,50 +54,50 @@
   "cumulative": [
     {
       "date": "2026-06-28",
-      "cost": 25331.0,
-      "clicks": 8.0,
+      "cost": 27833.0,
+      "clicks": 39.0,
       "conv": 0.0,
       "negative": 0
     },
     {
       "date": "2026-06-27",
-      "cost": 18149.0,
-      "clicks": 6.0,
+      "cost": 19742.0,
+      "clicks": 32.0,
       "conv": 0.0,
       "negative": 0
     },
     {
       "date": "2026-06-26",
-      "cost": 15405.0,
-      "clicks": 7.0,
+      "cost": 17296.0,
+      "clicks": 32.0,
       "conv": 0.0,
       "negative": 0
     },
     {
       "date": "2026-06-25",
-      "cost": 26339.0,
-      "clicks": 6.0,
+      "cost": 29024.0,
+      "clicks": 24.0,
       "conv": 0.0,
       "negative": 1
     },
     {
       "date": "2026-06-24",
-      "cost": 18369.0,
-      "clicks": 8.0,
+      "cost": 24046.0,
+      "clicks": 31.0,
       "conv": 0.0,
       "negative": 2
     },
     {
       "date": "2026-06-23",
-      "cost": 21288.0,
-      "clicks": 12.0,
+      "cost": 24728.0,
+      "clicks": 27.0,
       "conv": 0.0,
       "negative": 1
     },
     {
       "date": "2026-06-22",
-      "cost": 33958.0,
-      "clicks": 5.0,
+      "cost": 34321.0,
+      "clicks": 8.0,
       "conv": 0.0,
       "negative": 1
     },
@@ -110,15 +110,15 @@
     },
     {
       "date": "2026-06-20",
-      "cost": 84522.0,
-      "clicks": 14.0,
+      "cost": 85810.0,
+      "clicks": 24.0,
       "conv": 0.0,
       "negative": 0
     },
     {
       "date": "2026-06-19",
-      "cost": 34561.0,
-      "clicks": 8.0,
+      "cost": 38628.0,
+      "clicks": 26.0,
       "conv": 0.0,
       "negative": 0
     }
