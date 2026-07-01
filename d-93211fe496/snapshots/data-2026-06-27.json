@@ -68,30 +68,30 @@
     },
     {
       "date": "2026-06-25",
-      "cost": 723333.0,
-      "clicks": 446.0,
-      "conv": 4.0,
+      "cost": 26339.0,
+      "clicks": 6.0,
+      "conv": 0.0,
       "negative": 1
     },
     {
       "date": "2026-06-24",
-      "cost": 5831.0,
-      "clicks": 2.0,
+      "cost": 18369.0,
+      "clicks": 8.0,
       "conv": 0.0,
       "negative": 2
     },
     {
       "date": "2026-06-23",
-      "cost": 461781.0,
-      "clicks": 350.0,
-      "conv": 4.0,
+      "cost": 21288.0,
+      "clicks": 12.0,
+      "conv": 0.0,
       "negative": 1
     },
     {
       "date": "2026-06-22",
-      "cost": 730172.0,
-      "clicks": 452.0,
-      "conv": 5.0,
+      "cost": 33958.0,
+      "clicks": 5.0,
+      "conv": 0.0,
       "negative": 1
     },
     {
