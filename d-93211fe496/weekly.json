@@ -3,7 +3,7 @@
     "2026-06-22",
     "2026-06-28"
   ],
-  "generated_at": "2026-07-01T09:03:11.102899+09:00",
+  "generated_at": "2026-07-02T09:01:21.599615+09:00",
   "totals": {
     "spend": 176990,
     "clicks": 193,
@@ -21,32 +21,32 @@
   ],
   "trends": [
     {
-      "keyword": "플렌티컨벤션",
-      "delta": 10.2
-    },
-    {
-      "keyword": "플렌티 웨딩",
-      "delta": 10.2
-    },
-    {
-      "keyword": "PLENTY 웨딩",
-      "delta": 10.2
-    },
-    {
       "keyword": "엘타워 웨딩홀",
-      "delta": 6.5
+      "delta": 0.1
     },
     {
       "keyword": "엘리에나호텔",
-      "delta": 6.5
+      "delta": 0.1
     },
     {
       "keyword": "더컨벤션 웨딩",
-      "delta": 6.5
+      "delta": 0.1
+    },
+    {
+      "keyword": "플렌티컨벤션",
+      "delta": -5.6
+    },
+    {
+      "keyword": "플렌티 웨딩",
+      "delta": -5.6
+    },
+    {
+      "keyword": "PLENTY 웨딩",
+      "delta": -5.6
     },
     {
       "keyword": "강남 웨딩홀",
-      "delta": -4.3
+      "delta": -10.5
     }
   ],
   "strategy": [

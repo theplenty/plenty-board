@@ -1,8 +1,9 @@
 {
   "months": [
+    "2026-07",
     "2026-06"
   ],
-  "latest": "2026-06",
+  "latest": "2026-07",
   "data": {
     "2026-06": {
       "source": "네이버 공식 월간 리포트",
@@ -198,6 +199,149 @@
           "ctr": 3.44,
           "cpc": 822,
           "cost": 85462
+        }
+      ]
+    },
+    "2026-07": {
+      "source": "자동수집(캠페인 기준)",
+      "totals": {
+        "imp": 1533,
+        "clk": 29,
+        "cost": 33476,
+        "conv": 0,
+        "rev": 0
+      },
+      "device": [
+        {
+          "name": "모바일",
+          "rank": 0,
+          "imp": 1000,
+          "clk": 21,
+          "cost": 24970,
+          "ctr": 2.1,
+          "cpc": 1189
+        },
+        {
+          "name": "PC",
+          "rank": 0,
+          "imp": 533,
+          "clk": 8,
+          "cost": 8506,
+          "ctr": 1.5,
+          "cpc": 1063
+        }
+      ],
+      "topKeywords": [
+        {
+          "keyword": "서울웨딩홀",
+          "group": "",
+          "imp": 93,
+          "clk": 5,
+          "cost": 10087,
+          "ctr": 5.38,
+          "cpc": 2017,
+          "rank": 0
+        },
+        {
+          "keyword": "강남예식장",
+          "group": "",
+          "imp": 59,
+          "clk": 1,
+          "cost": 8931,
+          "ctr": 1.69,
+          "cpc": 8931,
+          "rank": 0
+        },
+        {
+          "keyword": "서울세미나실대관",
+          "group": "",
+          "imp": 1,
+          "clk": 1,
+          "cost": 5721,
+          "ctr": 100.0,
+          "cpc": 5721,
+          "rank": 0
+        },
+        {
+          "keyword": "웨딩홀",
+          "group": "",
+          "imp": 154,
+          "clk": 1,
+          "cost": 4695,
+          "ctr": 0.65,
+          "cpc": 4695,
+          "rank": 0
+        },
+        {
+          "keyword": "반포웨딩홀",
+          "group": "",
+          "imp": 97,
+          "clk": 1,
+          "cost": 2076,
+          "ctr": 1.03,
+          "cpc": 2076,
+          "rank": 0
+        },
+        {
+          "keyword": "서울세미나실",
+          "group": "",
+          "imp": 1,
+          "clk": 0,
+          "cost": 0,
+          "ctr": 0.0,
+          "cpc": 0,
+          "rank": 0
+        },
+        {
+          "keyword": "서울회의실",
+          "group": "",
+          "imp": 3,
+          "clk": 0,
+          "cost": 0,
+          "ctr": 0.0,
+          "cpc": 0,
+          "rank": 0
+        },
+        {
+          "keyword": "서울컨퍼런스",
+          "group": "",
+          "imp": 2,
+          "clk": 0,
+          "cost": 0,
+          "ctr": 0.0,
+          "cpc": 0,
+          "rank": 0
+        },
+        {
+          "keyword": "서울회의실대관",
+          "group": "",
+          "imp": 2,
+          "clk": 0,
+          "cost": 0,
+          "ctr": 0.0,
+          "cpc": 0,
+          "rank": 0
+        },
+        {
+          "keyword": "강남예식장식대",
+          "group": "",
+          "imp": 1,
+          "clk": 0,
+          "cost": 0,
+          "ctr": 0.0,
+          "cpc": 0,
+          "rank": 0
+        }
+      ],
+      "weekday": [
+        {
+          "day": "수",
+          "days": 1,
+          "imp": 1533,
+          "clk": 29,
+          "cost": 33476,
+          "ctr": 1.89,
+          "cpc": 1154
         }
       ]
     }
