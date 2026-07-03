@@ -205,9 +205,9 @@
     "2026-07": {
       "source": "자동수집(캠페인 기준)",
       "totals": {
-        "imp": 1533,
-        "clk": 29,
-        "cost": 33476,
+        "imp": 2870,
+        "clk": 64,
+        "cost": 64620,
         "conv": 0,
         "rev": 0
       },
@@ -215,40 +215,50 @@
         {
           "name": "모바일",
           "rank": 0,
-          "imp": 1000,
-          "clk": 21,
-          "cost": 24970,
-          "ctr": 2.1,
-          "cpc": 1189
+          "imp": 1789,
+          "clk": 40,
+          "cost": 39248,
+          "ctr": 2.24,
+          "cpc": 981
         },
         {
           "name": "PC",
           "rank": 0,
-          "imp": 533,
-          "clk": 8,
-          "cost": 8506,
-          "ctr": 1.5,
-          "cpc": 1063
+          "imp": 1081,
+          "clk": 24,
+          "cost": 25372,
+          "ctr": 2.22,
+          "cpc": 1057
         }
       ],
       "topKeywords": [
         {
           "keyword": "서울웨딩홀",
           "group": "",
-          "imp": 93,
-          "clk": 5,
-          "cost": 10087,
-          "ctr": 5.38,
-          "cpc": 2017,
+          "imp": 155,
+          "clk": 11,
+          "cost": 21920,
+          "ctr": 7.1,
+          "cpc": 1992,
+          "rank": 0
+        },
+        {
+          "keyword": "웨딩홀",
+          "group": "",
+          "imp": 262,
+          "clk": 3,
+          "cost": 13912,
+          "ctr": 1.15,
+          "cpc": 4637,
           "rank": 0
         },
         {
           "keyword": "강남예식장",
           "group": "",
-          "imp": 59,
+          "imp": 97,
           "clk": 1,
           "cost": 8931,
-          "ctr": 1.69,
+          "ctr": 1.03,
           "cpc": 8931,
           "rank": 0
         },
@@ -263,69 +273,59 @@
           "rank": 0
         },
         {
-          "keyword": "웨딩홀",
+          "keyword": "호텔식웨딩홀",
           "group": "",
-          "imp": 154,
-          "clk": 1,
-          "cost": 4695,
-          "ctr": 0.65,
-          "cpc": 4695,
+          "imp": 287,
+          "clk": 2,
+          "cost": 3998,
+          "ctr": 0.7,
+          "cpc": 1999,
           "rank": 0
         },
         {
           "keyword": "반포웨딩홀",
           "group": "",
-          "imp": 97,
+          "imp": 183,
           "clk": 1,
           "cost": 2076,
-          "ctr": 1.03,
+          "ctr": 0.55,
           "cpc": 2076,
+          "rank": 0
+        },
+        {
+          "keyword": "웨딩준비",
+          "group": "",
+          "imp": 19,
+          "clk": 1,
+          "cost": 1892,
+          "ctr": 5.26,
+          "cpc": 1892,
+          "rank": 0
+        },
+        {
+          "keyword": "고속터미널역예식장",
+          "group": "",
+          "imp": 2,
+          "clk": 1,
+          "cost": 532,
+          "ctr": 50.0,
+          "cpc": 532,
+          "rank": 0
+        },
+        {
+          "keyword": "고속터미널웨딩홀",
+          "group": "",
+          "imp": 24,
+          "clk": 1,
+          "cost": 322,
+          "ctr": 4.17,
+          "cpc": 322,
           "rank": 0
         },
         {
           "keyword": "서울세미나실",
           "group": "",
-          "imp": 1,
-          "clk": 0,
-          "cost": 0,
-          "ctr": 0.0,
-          "cpc": 0,
-          "rank": 0
-        },
-        {
-          "keyword": "서울회의실",
-          "group": "",
-          "imp": 3,
-          "clk": 0,
-          "cost": 0,
-          "ctr": 0.0,
-          "cpc": 0,
-          "rank": 0
-        },
-        {
-          "keyword": "서울컨퍼런스",
-          "group": "",
-          "imp": 2,
-          "clk": 0,
-          "cost": 0,
-          "ctr": 0.0,
-          "cpc": 0,
-          "rank": 0
-        },
-        {
-          "keyword": "서울회의실대관",
-          "group": "",
-          "imp": 2,
-          "clk": 0,
-          "cost": 0,
-          "ctr": 0.0,
-          "cpc": 0,
-          "rank": 0
-        },
-        {
-          "keyword": "강남예식장식대",
-          "group": "",
-          "imp": 1,
+          "imp": 4,
           "clk": 0,
           "cost": 0,
           "ctr": 0.0,
@@ -342,6 +342,15 @@
           "cost": 33476,
           "ctr": 1.89,
           "cpc": 1154
+        },
+        {
+          "day": "목",
+          "days": 1,
+          "imp": 1337,
+          "clk": 35,
+          "cost": 31144,
+          "ctr": 2.62,
+          "cpc": 889
         }
       ]
     }
