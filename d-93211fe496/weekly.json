@@ -3,7 +3,7 @@
     "2026-06-22",
     "2026-06-28"
   ],
-  "generated_at": "2026-07-03T09:07:15.185703+09:00",
+  "generated_at": "2026-07-04T09:07:16.619293+09:00",
   "totals": {
     "spend": 176990,
     "clicks": 193,
@@ -21,32 +21,24 @@
   ],
   "trends": [
     {
-      "keyword": "엘타워 웨딩홀",
-      "delta": 1.1
-    },
-    {
-      "keyword": "엘리에나호텔",
-      "delta": 1.1
-    },
-    {
-      "keyword": "더컨벤션 웨딩",
-      "delta": 1.1
-    },
-    {
       "keyword": "플렌티컨벤션",
-      "delta": -1.2
+      "delta": -6.6
     },
     {
       "keyword": "플렌티 웨딩",
-      "delta": -1.2
-    },
-    {
-      "keyword": "PLENTY 웨딩",
-      "delta": -1.2
+      "delta": -6.6
     },
     {
       "keyword": "강남 웨딩홀",
-      "delta": -5.6
+      "delta": -9.0
+    },
+    {
+      "keyword": "서초 웨딩홀",
+      "delta": -9.0
+    },
+    {
+      "keyword": "고속터미널 웨딩홀",
+      "delta": -9.0
     }
   ],
   "strategy": [
