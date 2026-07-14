@@ -3,7 +3,7 @@
     "2026-07-06",
     "2026-07-12"
   ],
-  "generated_at": "2026-07-13T09:06:50.440670+09:00",
+  "generated_at": "2026-07-14T09:06:40.579308+09:00",
   "totals": {
     "spend": 255678,
     "clicks": 237,
@@ -21,31 +21,31 @@
   ],
   "trends": [
     {
-      "keyword": "강남 웨딩홀",
-      "delta": 13.6
-    },
-    {
-      "keyword": "서초 웨딩홀",
-      "delta": 13.6
-    },
-    {
-      "keyword": "고속터미널 웨딩홀",
-      "delta": 13.6
-    },
-    {
       "keyword": "플렌티컨벤션",
-      "delta": 13.0
+      "delta": 11.4
     },
     {
       "keyword": "플렌티 웨딩",
-      "delta": 13.0
+      "delta": 11.4
+    },
+    {
+      "keyword": "강남 웨딩홀",
+      "delta": 6.1
+    },
+    {
+      "keyword": "서초 웨딩홀",
+      "delta": 6.1
+    },
+    {
+      "keyword": "고속터미널 웨딩홀",
+      "delta": 6.1
     },
     {
       "keyword": "웨딩박람회",
       "delta": 0.0
     },
     {
-      "keyword": "가지",
+      "keyword": "본식",
       "delta": 0.0
     }
   ],
