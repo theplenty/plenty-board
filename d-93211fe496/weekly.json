@@ -3,7 +3,7 @@
     "2026-07-06",
     "2026-07-12"
   ],
-  "generated_at": "2026-07-14T09:06:40.579308+09:00",
+  "generated_at": "2026-07-15T09:06:33.206137+09:00",
   "totals": {
     "spend": 255678,
     "clicks": 237,
@@ -22,30 +22,30 @@
   "trends": [
     {
       "keyword": "플렌티컨벤션",
-      "delta": 11.4
+      "delta": 13.8
     },
     {
       "keyword": "플렌티 웨딩",
-      "delta": 11.4
+      "delta": 13.8
     },
     {
       "keyword": "강남 웨딩홀",
-      "delta": 6.1
+      "delta": 3.4
     },
     {
       "keyword": "서초 웨딩홀",
-      "delta": 6.1
+      "delta": 3.4
     },
     {
       "keyword": "고속터미널 웨딩홀",
-      "delta": 6.1
+      "delta": 3.4
     },
     {
       "keyword": "웨딩박람회",
       "delta": 0.0
     },
     {
-      "keyword": "본식",
+      "keyword": "스튜디오",
       "delta": 0.0
     }
   ],
@@ -53,5 +53,46 @@
     "상승 키워드 상위 3개를 블로그·카페·인스타 카드뉴스 주제로 일관되게 운영",
     "부진 키워드(전환 0건·비용 상위)는 이번 주 안에 입찰 축소 결정",
     "브랜드 키워드(플렌티컨벤션·PLENTY 웨딩) 비딩 1위 보호 — 결정단계 유입 캡처"
-  ]
+  ],
+  "geo": {
+    "rows": [
+      {
+        "question": "고속터미널 웨딩홀 추천",
+        "results": 30,
+        "plenty": 1,
+        "topRival": "아펠가모",
+        "rivalHits": 4
+      },
+      {
+        "question": "서초 웨딩홀 추천",
+        "results": 30,
+        "plenty": 0,
+        "topRival": "더컨벤션",
+        "rivalHits": 4
+      },
+      {
+        "question": "강남 단독홀 웨딩홀",
+        "results": 30,
+        "plenty": 0,
+        "topRival": "그랜드힐",
+        "rivalHits": 1
+      },
+      {
+        "question": "반포 웨딩홀 추천",
+        "results": 30,
+        "plenty": 0,
+        "topRival": "아펠가모",
+        "rivalHits": 12
+      },
+      {
+        "question": "서울 실내 단독홀 웨딩",
+        "results": 30,
+        "plenty": 0,
+        "topRival": "소노펠리체",
+        "rivalHits": 1
+      }
+    ],
+    "mentioned_q": 1,
+    "total_q": 5
+  }
 }
