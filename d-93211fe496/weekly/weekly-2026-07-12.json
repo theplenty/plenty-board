@@ -3,7 +3,7 @@
     "2026-07-06",
     "2026-07-12"
   ],
-  "generated_at": "2026-07-17T09:07:38.999774+09:00",
+  "generated_at": "2026-07-18T09:07:44.986203+09:00",
   "totals": {
     "spend": 255678,
     "clicks": 237,
@@ -34,19 +34,19 @@
     },
     {
       "keyword": "플렌티컨벤션",
-      "delta": 15.6
+      "delta": -6.0
     },
     {
       "keyword": "플렌티 웨딩",
-      "delta": 15.6
+      "delta": -6.0
     },
     {
       "keyword": "강남 웨딩홀",
-      "delta": -13.7
+      "delta": -15.9
     },
     {
       "keyword": "서초 웨딩홀",
-      "delta": -13.7
+      "delta": -15.9
     }
   ],
   "strategy": [
@@ -74,15 +74,15 @@
         "question": "강남 단독홀 웨딩홀",
         "results": 30,
         "plenty": 0,
-        "topRival": "아펠가모",
-        "rivalHits": 1
+        "topRival": "노블발렌티",
+        "rivalHits": 2
       },
       {
         "question": "반포 웨딩홀 추천",
         "results": 30,
         "plenty": 0,
         "topRival": "아펠가모",
-        "rivalHits": 13
+        "rivalHits": 14
       },
       {
         "question": "서울 실내 단독홀 웨딩",
