@@ -3,7 +3,7 @@
     "2026-07-13",
     "2026-07-19"
   ],
-  "generated_at": "2026-07-21T09:08:03.647798+09:00",
+  "generated_at": "2026-07-22T09:08:05.146781+09:00",
   "totals": {
     "spend": 182832,
     "clicks": 212,
@@ -21,32 +21,32 @@
   ],
   "trends": [
     {
-      "keyword": "단독홀 웨딩",
-      "delta": 40.0
-    },
-    {
-      "keyword": "단독예식",
-      "delta": 40.0
-    },
-    {
-      "keyword": "어두운 웨딩홀",
-      "delta": 40.0
-    },
-    {
       "keyword": "플렌티컨벤션",
-      "delta": 1.2
+      "delta": 0.0
     },
     {
       "keyword": "플렌티 웨딩",
-      "delta": 1.2
+      "delta": 0.0
     },
     {
       "keyword": "강남 웨딩홀",
-      "delta": -12.4
+      "delta": -9.2
     },
     {
       "keyword": "서초 웨딩홀",
-      "delta": -12.4
+      "delta": -9.2
+    },
+    {
+      "keyword": "고속터미널 웨딩홀",
+      "delta": -9.2
+    },
+    {
+      "keyword": "단독홀 웨딩",
+      "delta": -33.3
+    },
+    {
+      "keyword": "단독예식",
+      "delta": -33.3
     }
   ],
   "strategy": [
