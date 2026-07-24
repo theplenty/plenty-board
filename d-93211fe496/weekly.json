@@ -3,7 +3,7 @@
     "2026-07-13",
     "2026-07-19"
   ],
-  "generated_at": "2026-07-23T15:01:31.783653+09:00",
+  "generated_at": "2026-07-24T13:42:14.315044+09:00",
   "totals": {
     "spend": 182832,
     "clicks": 212,
@@ -21,24 +21,24 @@
   ],
   "trends": [
     {
-      "keyword": "플렌티컨벤션",
-      "delta": -2.6
-    },
-    {
-      "keyword": "플렌티 웨딩",
-      "delta": -2.6
-    },
-    {
       "keyword": "강남 웨딩홀",
-      "delta": -8.0
+      "delta": 3.7
     },
     {
       "keyword": "서초 웨딩홀",
-      "delta": -8.0
+      "delta": 3.7
     },
     {
       "keyword": "고속터미널 웨딩홀",
-      "delta": -8.0
+      "delta": 3.7
+    },
+    {
+      "keyword": "플렌티컨벤션",
+      "delta": -0.4
+    },
+    {
+      "keyword": "플렌티 웨딩",
+      "delta": -0.4
     },
     {
       "keyword": "단독홀 웨딩",
@@ -68,7 +68,7 @@
         "results": 30,
         "plenty": 0,
         "topRival": "더컨벤션",
-        "rivalHits": 3
+        "rivalHits": 4
       },
       {
         "question": "강남 단독홀 웨딩홀",
@@ -88,7 +88,7 @@
         "question": "서울 실내 단독홀 웨딩",
         "results": 30,
         "plenty": 1,
-        "topRival": "소노펠리체",
+        "topRival": "빌라드지디",
         "rivalHits": 1
       },
       {
