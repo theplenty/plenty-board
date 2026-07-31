@@ -3,7 +3,7 @@
     "2026-07-20",
     "2026-07-26"
   ],
-  "generated_at": "2026-07-30T13:10:26.881756+09:00",
+  "generated_at": "2026-07-31T09:06:55.364941+09:00",
   "totals": {
     "spend": 275897,
     "clicks": 238,
@@ -22,23 +22,23 @@
   "trends": [
     {
       "keyword": "플렌티컨벤션",
-      "delta": 28.3
+      "delta": 27.8
     },
     {
       "keyword": "플렌티 웨딩",
-      "delta": 28.3
+      "delta": 27.8
     },
     {
       "keyword": "강남 웨딩홀",
-      "delta": 6.1
+      "delta": 2.7
     },
     {
       "keyword": "서초 웨딩홀",
-      "delta": 6.1
+      "delta": 2.7
     },
     {
       "keyword": "고속터미널 웨딩홀",
-      "delta": 6.1
+      "delta": 2.7
     },
     {
       "keyword": "단독홀 웨딩",
@@ -61,7 +61,7 @@
         "results": 30,
         "plenty": 0,
         "topRival": "아펠가모",
-        "rivalHits": 7
+        "rivalHits": 6
       },
       {
         "question": "서초 웨딩홀 추천",
