@@ -1,9 +1,10 @@
 {
   "months": [
+    "2026-08",
     "2026-07",
     "2026-06"
   ],
-  "latest": "2026-07",
+  "latest": "2026-08",
   "data": {
     "2026-06": {
       "source": "네이버 공식 월간 리포트",
@@ -396,6 +397,149 @@
           "cost": 141801,
           "ctr": 2.2,
           "cpc": 998
+        }
+      ]
+    },
+    "2026-08": {
+      "source": "자동수집(캠페인 기준)",
+      "totals": {
+        "imp": 1253,
+        "clk": 27,
+        "cost": 44451,
+        "conv": 0,
+        "rev": 0
+      },
+      "device": [
+        {
+          "name": "모바일",
+          "rank": 0,
+          "imp": 956,
+          "clk": 26,
+          "cost": 44396,
+          "ctr": 2.72,
+          "cpc": 1707
+        },
+        {
+          "name": "PC",
+          "rank": 0,
+          "imp": 297,
+          "clk": 1,
+          "cost": 55,
+          "ctr": 0.34,
+          "cpc": 55
+        }
+      ],
+      "topKeywords": [
+        {
+          "keyword": "강남웨딩홀",
+          "group": "",
+          "imp": 85,
+          "clk": 1,
+          "cost": 18118,
+          "ctr": 1.18,
+          "cpc": 18118,
+          "rank": 0
+        },
+        {
+          "keyword": "웨딩홀",
+          "group": "",
+          "imp": 120,
+          "clk": 3,
+          "cost": 11453,
+          "ctr": 2.5,
+          "cpc": 3817,
+          "rank": 0
+        },
+        {
+          "keyword": "서울웨딩홀",
+          "group": "",
+          "imp": 108,
+          "clk": 3,
+          "cost": 7108,
+          "ctr": 2.78,
+          "cpc": 2369,
+          "rank": 0
+        },
+        {
+          "keyword": "강남결혼식장",
+          "group": "",
+          "imp": 13,
+          "clk": 1,
+          "cost": 3197,
+          "ctr": 7.69,
+          "cpc": 3197,
+          "rank": 0
+        },
+        {
+          "keyword": "가톨릭대결혼식장",
+          "group": "",
+          "imp": 56,
+          "clk": 1,
+          "cost": 685,
+          "ctr": 1.79,
+          "cpc": 685,
+          "rank": 0
+        },
+        {
+          "keyword": "호텔식웨딩",
+          "group": "",
+          "imp": 54,
+          "clk": 1,
+          "cost": 607,
+          "ctr": 1.85,
+          "cpc": 607,
+          "rank": 0
+        },
+        {
+          "keyword": "강남구세미나실",
+          "group": "",
+          "imp": 1,
+          "clk": 1,
+          "cost": 259,
+          "ctr": 100.0,
+          "cpc": 259,
+          "rank": 0
+        },
+        {
+          "keyword": "웨딩비용",
+          "group": "",
+          "imp": 3,
+          "clk": 1,
+          "cost": 77,
+          "ctr": 33.33,
+          "cpc": 77,
+          "rank": 0
+        },
+        {
+          "keyword": "서울미팅룸",
+          "group": "",
+          "imp": 1,
+          "clk": 0,
+          "cost": 0,
+          "ctr": 0.0,
+          "cpc": 0,
+          "rank": 0
+        },
+        {
+          "keyword": "서울회의실",
+          "group": "",
+          "imp": 3,
+          "clk": 0,
+          "cost": 0,
+          "ctr": 0.0,
+          "cpc": 0,
+          "rank": 0
+        }
+      ],
+      "weekday": [
+        {
+          "day": "토",
+          "days": 1,
+          "imp": 1253,
+          "clk": 27,
+          "cost": 44451,
+          "ctr": 2.15,
+          "cpc": 1646
         }
       ]
     }
