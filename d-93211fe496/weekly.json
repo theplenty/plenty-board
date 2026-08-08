@@ -3,7 +3,7 @@
     "2026-07-27",
     "2026-08-02"
   ],
-  "generated_at": "2026-08-07T09:06:03.643142+09:00",
+  "generated_at": "2026-08-08T09:05:20.988977+09:00",
   "totals": {
     "spend": 244725,
     "clicks": 183,
@@ -21,18 +21,6 @@
   ],
   "trends": [
     {
-      "keyword": "강남 웨딩홀",
-      "delta": 40.6
-    },
-    {
-      "keyword": "서초 웨딩홀",
-      "delta": 40.6
-    },
-    {
-      "keyword": "고속터미널 웨딩홀",
-      "delta": 40.6
-    },
-    {
       "keyword": "단독홀 웨딩",
       "delta": 0.0
     },
@@ -45,8 +33,20 @@
       "delta": 0.0
     },
     {
+      "keyword": "강남 웨딩홀",
+      "delta": -3.7
+    },
+    {
+      "keyword": "서초 웨딩홀",
+      "delta": -3.7
+    },
+    {
+      "keyword": "고속터미널 웨딩홀",
+      "delta": -3.7
+    },
+    {
       "keyword": "플렌티컨벤션",
-      "delta": -22.8
+      "delta": -18.8
     }
   ],
   "strategy": [
@@ -59,37 +59,37 @@
       {
         "question": "고속터미널 웨딩홀 추천",
         "results": 30,
-        "plenty": 0,
-        "topRival": "아펠가모",
-        "rivalHits": 5
+        "plenty": 1,
+        "topRival": "더컨벤션",
+        "rivalHits": 3
       },
       {
         "question": "서초 웨딩홀 추천",
         "results": 30,
-        "plenty": 0,
-        "topRival": "플로팅아일랜드",
-        "rivalHits": 4
+        "plenty": 1,
+        "topRival": "엘타워",
+        "rivalHits": 2
       },
       {
         "question": "강남 단독홀 웨딩홀",
         "results": 30,
         "plenty": 0,
         "topRival": "노블발렌티",
-        "rivalHits": 2
+        "rivalHits": 3
       },
       {
         "question": "반포 웨딩홀 추천",
         "results": 30,
-        "plenty": 0,
+        "plenty": 1,
         "topRival": "아펠가모",
-        "rivalHits": 14
+        "rivalHits": 7
       },
       {
         "question": "서울 실내 단독홀 웨딩",
         "results": 30,
-        "plenty": 1,
-        "topRival": "소노펠리체",
-        "rivalHits": 1
+        "plenty": 0,
+        "topRival": "더컨벤션",
+        "rivalHits": 2
       },
       {
         "question": "어두운 웨딩홀 추천",
@@ -99,7 +99,7 @@
         "rivalHits": 1
       }
     ],
-    "mentioned_q": 1,
+    "mentioned_q": 3,
     "total_q": 6
   }
 }
