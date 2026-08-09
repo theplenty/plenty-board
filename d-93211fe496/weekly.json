@@ -3,7 +3,7 @@
     "2026-07-27",
     "2026-08-02"
   ],
-  "generated_at": "2026-08-08T09:05:20.988977+09:00",
+  "generated_at": "2026-08-09T09:05:23.794794+09:00",
   "totals": {
     "spend": 244725,
     "clicks": 183,
@@ -34,19 +34,19 @@
     },
     {
       "keyword": "강남 웨딩홀",
-      "delta": -3.7
+      "delta": -9.5
     },
     {
       "keyword": "서초 웨딩홀",
-      "delta": -3.7
+      "delta": -9.5
     },
     {
       "keyword": "고속터미널 웨딩홀",
-      "delta": -3.7
+      "delta": -9.5
     },
     {
       "keyword": "플렌티컨벤션",
-      "delta": -18.8
+      "delta": -18.6
     }
   ],
   "strategy": [
@@ -61,20 +61,20 @@
         "results": 30,
         "plenty": 1,
         "topRival": "더컨벤션",
-        "rivalHits": 3
+        "rivalHits": 2
       },
       {
         "question": "서초 웨딩홀 추천",
         "results": 30,
         "plenty": 1,
         "topRival": "엘타워",
-        "rivalHits": 2
+        "rivalHits": 3
       },
       {
         "question": "강남 단독홀 웨딩홀",
         "results": 30,
         "plenty": 0,
-        "topRival": "노블발렌티",
+        "topRival": "아펠가모",
         "rivalHits": 3
       },
       {
@@ -95,7 +95,7 @@
         "question": "어두운 웨딩홀 추천",
         "results": 30,
         "plenty": 0,
-        "topRival": "더컨벤션",
+        "topRival": "루이비스",
         "rivalHits": 1
       }
     ],
