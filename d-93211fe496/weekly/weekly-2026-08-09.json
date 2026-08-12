@@ -3,7 +3,7 @@
     "2026-08-03",
     "2026-08-09"
   ],
-  "generated_at": "2026-08-11T13:04:00.884061+09:00",
+  "generated_at": "2026-08-12T11:35:55.975017+09:00",
   "totals": {
     "spend": 215713,
     "clicks": 172,
@@ -21,32 +21,32 @@
   ],
   "trends": [
     {
-      "keyword": "단독홀 웨딩",
-      "delta": 0.0
-    },
-    {
-      "keyword": "단독예식",
-      "delta": 0.0
-    },
-    {
-      "keyword": "어두운 웨딩홀",
-      "delta": 0.0
-    },
-    {
       "keyword": "플렌티컨벤션",
-      "delta": -1.8
+      "delta": 11.6
     },
     {
       "keyword": "플렌티 웨딩",
-      "delta": -1.8
+      "delta": 11.6
     },
     {
       "keyword": "강남 웨딩홀",
-      "delta": -13.4
+      "delta": -16.0
     },
     {
       "keyword": "서초 웨딩홀",
-      "delta": -13.4
+      "delta": -16.0
+    },
+    {
+      "keyword": "고속터미널 웨딩홀",
+      "delta": -16.0
+    },
+    {
+      "keyword": "단독홀 웨딩",
+      "delta": -16.7
+    },
+    {
+      "keyword": "단독예식",
+      "delta": -16.7
     }
   ],
   "strategy": [
@@ -61,14 +61,14 @@
         "results": 30,
         "plenty": 1,
         "topRival": "더컨벤션",
-        "rivalHits": 2
+        "rivalHits": 1
       },
       {
         "question": "서초 웨딩홀 추천",
         "results": 30,
         "plenty": 1,
-        "topRival": "엘타워",
-        "rivalHits": 3
+        "topRival": "플로팅아일랜드",
+        "rivalHits": 4
       },
       {
         "question": "강남 단독홀 웨딩홀",
@@ -82,20 +82,20 @@
         "results": 30,
         "plenty": 1,
         "topRival": "아펠가모",
-        "rivalHits": 8
+        "rivalHits": 6
       },
       {
         "question": "서울 실내 단독홀 웨딩",
         "results": 30,
         "plenty": 0,
         "topRival": "더컨벤션",
-        "rivalHits": 1
+        "rivalHits": 2
       },
       {
         "question": "어두운 웨딩홀 추천",
         "results": 30,
         "plenty": 0,
-        "topRival": "더컨벤션",
+        "topRival": "루이비스",
         "rivalHits": 1
       }
     ],
