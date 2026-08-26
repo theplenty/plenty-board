@@ -3,7 +3,7 @@
     "2026-08-17",
     "2026-08-23"
   ],
-  "generated_at": "2026-08-25T09:10:39.227919+09:00",
+  "generated_at": "2026-08-26T09:08:59.055368+09:00",
   "totals": {
     "spend": 341717,
     "clicks": 252,
@@ -22,31 +22,31 @@
   "trends": [
     {
       "keyword": "플렌티컨벤션",
-      "delta": 89.9
+      "delta": 93.5
     },
     {
       "keyword": "플렌티 웨딩",
-      "delta": 89.9
+      "delta": 93.5
     },
     {
       "keyword": "강남 웨딩홀",
-      "delta": 49.2
+      "delta": 52.2
     },
     {
       "keyword": "서초 웨딩홀",
-      "delta": 49.2
+      "delta": 52.2
     },
     {
       "keyword": "고속터미널 웨딩홀",
-      "delta": 49.2
+      "delta": 52.2
     },
     {
       "keyword": "단독홀 웨딩",
-      "delta": 26.7
+      "delta": 40.0
     },
     {
       "keyword": "단독예식",
-      "delta": 26.7
+      "delta": 40.0
     }
   ],
   "strategy": [
@@ -67,9 +67,9 @@
         "action": "기존 언급 글 1건의 제목·첫 문단에 「고속터미널 웨딩홀 추천」 문구가 정확히 들어가게 보강하고, 신규 글·카페 후기로 2건 추가 확보하면 노블발렌티(2건)를 추월합니다.",
         "g_answer": false,
         "g_plenty": 0,
-        "g_topRival": "더컨벤션",
-        "g_rivalHits": 3,
-        "g_sources": 5
+        "g_topRival": "세빛섬",
+        "g_rivalHits": 1,
+        "g_sources": 6
       },
       {
         "question": "서초 웨딩홀 추천",
@@ -83,8 +83,8 @@
         "g_answer": false,
         "g_plenty": 0,
         "g_topRival": "아펠가모",
-        "g_rivalHits": 3,
-        "g_sources": 7
+        "g_rivalHits": 4,
+        "g_sources": 6
       },
       {
         "question": "강남 단독홀 웨딩홀",
@@ -97,24 +97,24 @@
         "action": "「강남 단독홀 웨딩홀」를 제목에 그대로 넣은 블로그 글 발행부터 — 첫 두 줄에 직접 답변(위치·수용인원·특징), 본문은 Q&A 소제목. 노블발렌티 추월까지 8건 필요 — 글 발행 후 카페 후기 1건에 같은 문구가 언급되게 하세요.",
         "g_answer": false,
         "g_plenty": 0,
-        "g_topRival": "더컨벤션",
-        "g_rivalHits": 1,
-        "g_sources": 9
+        "g_topRival": "노블발렌티",
+        "g_rivalHits": 2,
+        "g_sources": 8
       },
       {
         "question": "반포 웨딩홀 추천",
         "results": 30,
         "plenty": 1,
         "topRival": "아펠가모",
-        "rivalHits": 7,
-        "need": 7,
+        "rivalHits": 5,
+        "need": 5,
         "state": "열세",
-        "action": "기존 언급 글 1건의 제목·첫 문단에 「반포 웨딩홀 추천」 문구가 정확히 들어가게 보강하고, 신규 글·카페 후기로 7건 추가 확보하면 아펠가모(7건)를 추월합니다.",
+        "action": "기존 언급 글 1건의 제목·첫 문단에 「반포 웨딩홀 추천」 문구가 정확히 들어가게 보강하고, 신규 글·카페 후기로 5건 추가 확보하면 아펠가모(5건)를 추월합니다.",
         "g_answer": false,
         "g_plenty": 0,
-        "g_topRival": "플로팅아일랜드",
-        "g_rivalHits": 2,
-        "g_sources": 9
+        "g_topRival": "아펠가모",
+        "g_rivalHits": 3,
+        "g_sources": 7
       },
       {
         "question": "서울 실내 단독홀 웨딩",
@@ -127,24 +127,24 @@
         "action": "「서울 실내 단독홀 웨딩」를 제목에 그대로 넣은 블로그 글 발행부터 — 첫 두 줄에 직접 답변(위치·수용인원·특징), 본문은 Q&A 소제목. 빌라드지디 추월까지 2건 필요 — 글 발행 후 카페 후기 1건에 같은 문구가 언급되게 하세요.",
         "g_answer": false,
         "g_plenty": 0,
-        "g_topRival": "엘리에나",
+        "g_topRival": "빌라드지디",
         "g_rivalHits": 1,
-        "g_sources": 8
+        "g_sources": 9
       },
       {
         "question": "어두운 웨딩홀 추천",
         "results": 30,
         "plenty": 0,
-        "topRival": "라비돌",
+        "topRival": "루이비스",
         "rivalHits": 1,
         "need": 2,
         "state": "부재",
-        "action": "「어두운 웨딩홀 추천」를 제목에 그대로 넣은 블로그 글 발행부터 — 첫 두 줄에 직접 답변(위치·수용인원·특징), 본문은 Q&A 소제목. 라비돌 추월까지 2건 필요 — 글 발행 후 카페 후기 1건에 같은 문구가 언급되게 하세요.",
+        "action": "「어두운 웨딩홀 추천」를 제목에 그대로 넣은 블로그 글 발행부터 — 첫 두 줄에 직접 답변(위치·수용인원·특징), 본문은 Q&A 소제목. 루이비스 추월까지 2건 필요 — 글 발행 후 카페 후기 1건에 같은 문구가 언급되게 하세요.",
         "g_answer": false,
         "g_plenty": 0,
-        "g_topRival": "더컨벤션",
+        "g_topRival": "루이비스",
         "g_rivalHits": 1,
-        "g_sources": 12
+        "g_sources": 9
       }
     ],
     "mentioned_q": 3,
