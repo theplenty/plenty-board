@@ -260,34 +260,45 @@ ${i.slides.map((x,v)=>`${v+1}. ${x}`).join(`
         ${l}
         <p class="desc" style="margin-top:14px">상세 수치는 ‘일간 대시보드’ 탭에서 매일 확인하세요.</p>
       </div>
-    </div>`}function fh(s){const t=s.geo;if(!t||!t.rows||!t.rows.length)return"";const e={무주공산:"🏳️ 무주공산",부재:"🔴 부재",열세:"🟠 열세",선점:"🟢 선점"},i=t.rows.map(r=>{const l=r.plenty>0,c=r.rivalHits>r.plenty,h=r.state?e[r.state]||r.state:l&&!c?"우위/양호":c?"보강 필요":"기회",d=t.google_enabled?`<td class="${r.g_answer?"geo-ok":"geo-miss"}">${r.g_answer!=null?`${r.g_answer?"✅ 답변에 언급":"— 답변에 없음"}<span style="color:var(--ink-faint)">${r.g_sources?` (인용 출처 ${$(r.g_sources)}개 중 우리 ${$(r.g_plenty||0)}개`:" ("}${r.g_topRival&&r.g_topRival!=="-"?`, AI가 ${_(r.g_topRival)} ${$(r.g_rivalHits||0)}회 언급`:""})</span>`:"—"}</td>`:"";return`<tr>
-        <td>${_(r.question)}</td>
-        <td class="${l?"geo-ok":"geo-miss"}">${l?`✅ ${$(r.plenty)}건`:"— 없음"}</td>
-        <td>${r.topRival!=="-"?`${_(r.topRival)} (${$(r.rivalHits)}건)`:"—"}</td>
-        ${d}
-        <td style="white-space:nowrap">${h}</td>
-      </tr>`}).join(""),n=t.rows.filter(r=>r.action&&r.state!=="선점").sort((r,l)=>(r.need??9)-(l.need??9)),o=t.next_step?`<div class="insight ins-alert" style="margin-top:14px">
+    </div>`}function fh(s){const t=s.geo;if(!t||!t.rows||!t.rows.length)return"";const e={무주공산:"🏳️ 무주공산",부재:"🔴 부재",열세:"🟠 열세",선점:"🟢 선점"},i=t.rows.filter(l=>l.g_answer).length,n=t.rows.map(l=>{const c=l.plenty>0,h=l.rivalHits>l.plenty,d=l.state?e[l.state]||l.state:c&&!h?"우위/양호":h?"보강 필요":"기회",f=t.google_enabled?`<td class="${l.g_answer?"geo-ok":"geo-miss"}">${l.g_answer!=null?`${l.g_answer?"✅ 답변에 언급":"— 답변에 없음"}<span style="color:var(--ink-faint)">${l.g_sources?` (인용 출처 ${$(l.g_sources)}개 중 우리 ${$(l.g_plenty||0)}개`:" ("}${l.g_topRival&&l.g_topRival!=="-"?`, AI가 ${_(l.g_topRival)} ${$(l.g_rivalHits||0)}회 언급`:""})</span>`:"—"}</td>`:"";return`<tr>
+        <td>${_(l.question)}</td>
+        ${f}
+        <td class="${c?"geo-ok":"geo-miss"}">${c?`✅ ${$(l.plenty)}건`:"— 없음"}</td>
+        <td>${l.topRival!=="-"?`${_(l.topRival)} (${$(l.rivalHits)}건)`:"—"}</td>
+        <td style="white-space:nowrap">${d}</td>
+      </tr>`}).join(""),o=t.rows.filter(l=>l.action&&l.state!=="선점").sort((l,c)=>(l.need??9)-(c.need??9)),a=t.next_step?`<div class="insight ins-alert" style="margin-top:14px">
         <div class="ins-title">🎯 이번 주 1순위 액션</div>
         <div class="ins-body">${_(t.next_step)}</div>
-      </div>`:"",a=n.length?`<div style="margin-top:6px">${n.map(r=>`<div class="insight ${r.state==="열세"?"ins-warn":"ins-info"}">
-          <div class="ins-title">${_(r.question)} <span style="font-weight:400;color:var(--ink-faint)">· ${_(e[r.state||""]||"")}${r.need?` · 추월까지 ${$(r.need)}건`:""}</span></div>
-          <div class="ins-body">${_(r.action||"")}</div>
+      </div>`:"",r=o.length?`<div style="margin-top:6px">${o.map(l=>`<div class="insight ${l.state==="열세"?"ins-warn":"ins-info"}">
+          <div class="ins-title">${_(l.question)} <span style="font-weight:400;color:var(--ink-faint)">· ${_(e[l.state||""]||"")}${l.need?` · 추월까지 ${$(l.need)}건`:""}</span></div>
+          <div class="ins-body">${_(l.action||"")}</div>
         </div>`).join("")}</div>`:"";return`
     <div class="row full">
       <div class="card">
-        <h2>AI 검색 노출 (GEO·AEO) <span class="asof">플렌티 언급 ${$(t.mentioned_q)}/${$(t.total_q)} 질문${t.google_enabled&&t.google_measured_at?` · 구글 AI ${_(t.google_measured_at)} 기준(주 1회)`:""}</span></h2>
-        <p class="desc">예비부부가 AI·검색에 묻는 <b>추천 질문의 상위 결과(=AI가 답변에 인용하는 글)</b> 중 플렌티 언급 글 수.
-          AI는 이 상위 글들을 인용해 답하므로, <b>질문 문구가 제목·첫 문단에 그대로 들어간 글 수</b>를 늘리는 것이 선점 전략의 핵심입니다.</p>
-        <p class="desc"><b>구글 AI 답변</b> 열은 실제로 구글 AI에게 그 질문을 물어본 결과입니다 — 답변 본문에 플렌티가 언급됐는지,
-          AI가 인용한 출처 중 우리 글이 몇 개인지. 네이버 상위에 있어도 AI 답변에 인용되지 않을 수 있어 따로 봅니다.</p>
+        <h2>AI 검색 노출 (GEO·AEO) <span class="asof">${t.google_enabled?`구글 AI 답변 ${$(i)}/${$(t.total_q)} · `:""}네이버 상위 노출 ${$(t.mentioned_q)}/${$(t.total_q)}${t.google_enabled&&t.google_measured_at?` · 구글 측정 ${_(t.google_measured_at)}(주 1회)`:""}</span></h2>
+        <p class="desc">예비부부가 AI에게 웨딩홀을 물었을 때 <b>우리가 답변에 나오는지</b>를 봅니다.
+          아래 두 열은 <b>서로 다른 것을 잽니다.</b></p>
+        <p class="desc">
+          <b>① 구글 AI 답변</b> — 실제로 구글 AI에게 그 질문을 물어본 결과입니다. 답변에 플렌티가 나왔는지,
+          AI가 인용한 출처 중 우리 글이 몇 개인지. <b>이것이 진짜 성적표입니다.</b><br>
+          <b>② 네이버 검색 상위 30건</b> — 네이버에서 그 질문을 검색했을 때 나오는 블로그 15건 + 웹문서 15건 중
+          우리를 언급한 글 수입니다. AI에게 물어본 것이 아니라, <b>AI가 답을 만들 때 인용할 후보 글</b>을 센 것입니다.
+          (네이버는 AI 답변을 확인할 수 있는 통로가 없어 이렇게 대신 봅니다.)<br>
+          ②를 늘리면 시간이 지나 ①로 이어집니다. 그래서 <b>질문 문구를 제목·첫 문단에 그대로 넣은 글</b>을 쌓는 것이 핵심입니다.</p>
         <div class="scrollx">
           <table class="cum">
-            <thead><tr><th>추천 질문</th><th>플렌티 언급(네이버)</th><th>최다 경쟁사</th>${t.google_enabled?"<th>구글 AI 답변</th>":""}<th>상태</th></tr></thead>
-            <tbody>${i}</tbody>
+            <thead><tr>
+              <th>추천 질문</th>
+              ${t.google_enabled?'<th>① 구글 AI 답변<br><span style="font-weight:400;color:var(--ink-faint)">실제로 AI에게 물어본 결과</span></th>':""}
+              <th>② 네이버 검색 상위 30건<br><span style="font-weight:400;color:var(--ink-faint)">우리를 언급한 글 수(AI 인용 후보)</span></th>
+              <th>네이버 최다 경쟁사</th>
+              <th>상태</th>
+            </tr></thead>
+            <tbody>${n}</tbody>
           </table>
         </div>
-        ${o}
         ${a}
+        ${r}
       </div>
     </div>`}function uh(s,t){const e=s.data[t];if(!e)return`<div class="wrapinner">${V("해당 월 데이터가 없습니다.")}</div>`;const[i,n]=t.split("-"),o=`${i}년 ${parseInt(n,10)}월`,a=e.totals,r=s.months.length>1?`<select id="monthSel" class="monthsel">${s.months.map(m=>`<option value="${m}" ${m===t?"selected":""}>${m.split("-")[0]}년 ${parseInt(m.split("-")[1],10)}월</option>`).join("")}</select>`:"",l=e.device.reduce((m,x)=>m+x.cost,0)||1,c=e.device.map(m=>`<div class="dev-seg ${m.name==="PC"?"pc":"mo"}" style="width:${(m.cost/l*100).toFixed(1)}%" title="${_(m.name)} ${(m.cost/l*100).toFixed(0)}%"></div>`).join(""),h=e.device.map(m=>`<div class="istat" style="text-align:left">
         <div class="k" style="font-weight:700;color:var(--ink);font-size:13px">${_(m.name)} <span style="color:var(--ink-faint);font-weight:400">(${(m.cost/l*100).toFixed(0)}%)</span></div>
