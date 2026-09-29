@@ -260,7 +260,7 @@ ${i.slides.map((x,v)=>`${v+1}. ${x}`).join(`
         ${l}
         <p class="desc" style="margin-top:14px">상세 수치는 ‘일간 대시보드’ 탭에서 매일 확인하세요.</p>
       </div>
-    </div>`}function fh(s){const t=s.geo;if(!t||!t.rows||!t.rows.length)return"";const e={무주공산:"🏳️ 무주공산",부재:"🔴 부재",열세:"🟠 열세",선점:"🟢 선점"},i=t.rows.map(r=>{const l=r.plenty>0,c=r.rivalHits>r.plenty,h=r.state?e[r.state]||r.state:l&&!c?"우위/양호":c?"보강 필요":"기회",d=t.google_enabled?`<td class="${r.g_answer?"geo-ok":"geo-miss"}">${r.g_answer!=null?`${r.g_answer?"✅ 답변에 언급":"— 답변에 없음"}${r.g_topRival&&r.g_topRival!=="-"?` <span style="color:var(--ink-faint)">(AI가 ${_(r.g_topRival)} ${$(r.g_rivalHits||0)}회 언급)</span>`:""}`:"—"}</td>`:"";return`<tr>
+    </div>`}function fh(s){const t=s.geo;if(!t||!t.rows||!t.rows.length)return"";const e={무주공산:"🏳️ 무주공산",부재:"🔴 부재",열세:"🟠 열세",선점:"🟢 선점"},i=t.rows.map(r=>{const l=r.plenty>0,c=r.rivalHits>r.plenty,h=r.state?e[r.state]||r.state:l&&!c?"우위/양호":c?"보강 필요":"기회",d=t.google_enabled?`<td class="${r.g_answer?"geo-ok":"geo-miss"}">${r.g_answer!=null?`${r.g_answer?"✅ 답변에 언급":"— 답변에 없음"}<span style="color:var(--ink-faint)">${r.g_sources?` (인용 출처 ${$(r.g_sources)}개 중 우리 ${$(r.g_plenty||0)}개`:" ("}${r.g_topRival&&r.g_topRival!=="-"?`, AI가 ${_(r.g_topRival)} ${$(r.g_rivalHits||0)}회 언급`:""})</span>`:"—"}</td>`:"";return`<tr>
         <td>${_(r.question)}</td>
         <td class="${l?"geo-ok":"geo-miss"}">${l?`✅ ${$(r.plenty)}건`:"— 없음"}</td>
         <td>${r.topRival!=="-"?`${_(r.topRival)} (${$(r.rivalHits)}건)`:"—"}</td>
@@ -275,9 +275,11 @@ ${i.slides.map((x,v)=>`${v+1}. ${x}`).join(`
         </div>`).join("")}</div>`:"";return`
     <div class="row full">
       <div class="card">
-        <h2>AI 검색 노출 (GEO·AEO) <span class="asof">플렌티 언급 ${$(t.mentioned_q)}/${$(t.total_q)} 질문</span></h2>
+        <h2>AI 검색 노출 (GEO·AEO) <span class="asof">플렌티 언급 ${$(t.mentioned_q)}/${$(t.total_q)} 질문${t.google_enabled&&t.google_measured_at?` · 구글 AI ${_(t.google_measured_at)} 기준(주 1회)`:""}</span></h2>
         <p class="desc">예비부부가 AI·검색에 묻는 <b>추천 질문의 상위 결과(=AI가 답변에 인용하는 글)</b> 중 플렌티 언급 글 수.
           AI는 이 상위 글들을 인용해 답하므로, <b>질문 문구가 제목·첫 문단에 그대로 들어간 글 수</b>를 늘리는 것이 선점 전략의 핵심입니다.</p>
+        <p class="desc"><b>구글 AI 답변</b> 열은 실제로 구글 AI에게 그 질문을 물어본 결과입니다 — 답변 본문에 플렌티가 언급됐는지,
+          AI가 인용한 출처 중 우리 글이 몇 개인지. 네이버 상위에 있어도 AI 답변에 인용되지 않을 수 있어 따로 봅니다.</p>
         <div class="scrollx">
           <table class="cum">
             <thead><tr><th>추천 질문</th><th>플렌티 언급(네이버)</th><th>최다 경쟁사</th>${t.google_enabled?"<th>구글 AI 답변</th>":""}<th>상태</th></tr></thead>
