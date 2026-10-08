@@ -3,7 +3,7 @@
     "2026-09-28",
     "2026-10-04"
   ],
-  "generated_at": "2026-10-07T09:05:18.539059+09:00",
+  "generated_at": "2026-10-08T09:05:29.687518+09:00",
   "totals": {
     "spend": 324366,
     "clicks": 267,
@@ -21,24 +21,24 @@
   ],
   "trends": [
     {
-      "keyword": "강남 웨딩홀",
-      "delta": 39.8
-    },
-    {
-      "keyword": "서초 웨딩홀",
-      "delta": 39.8
-    },
-    {
-      "keyword": "고속터미널 웨딩홀",
-      "delta": 39.8
-    },
-    {
       "keyword": "플렌티컨벤션",
-      "delta": 21.4
+      "delta": 27.9
     },
     {
       "keyword": "플렌티 웨딩",
-      "delta": 21.4
+      "delta": 27.9
+    },
+    {
+      "keyword": "강남 웨딩홀",
+      "delta": 3.3
+    },
+    {
+      "keyword": "서초 웨딩홀",
+      "delta": 3.3
+    },
+    {
+      "keyword": "고속터미널 웨딩홀",
+      "delta": 3.3
     },
     {
       "keyword": "단독홀 웨딩",
@@ -106,10 +106,10 @@
         "results": 30,
         "plenty": 1,
         "topRival": "아펠가모",
-        "rivalHits": 12,
-        "need": 12,
+        "rivalHits": 11,
+        "need": 11,
         "state": "열세",
-        "action": "기존 언급 글 1건의 제목·첫 문단에 「반포 웨딩홀 추천」 문구가 정확히 들어가게 보강하고, 신규 글·카페 후기로 12건 추가 확보하면 아펠가모(12건)를 추월합니다.",
+        "action": "기존 언급 글 1건의 제목·첫 문단에 「반포 웨딩홀 추천」 문구가 정확히 들어가게 보강하고, 신규 글·카페 후기로 11건 추가 확보하면 아펠가모(11건)를 추월합니다.",
         "g_answer": false,
         "g_plenty": 0,
         "g_topRival": "세빛섬",
@@ -151,10 +151,10 @@
         "results": 30,
         "plenty": 0,
         "topRival": "그랜드힐",
-        "rivalHits": 3,
-        "need": 4,
+        "rivalHits": 2,
+        "need": 3,
         "state": "부재",
-        "action": "「동시예식 웨딩홀 추천」를 제목에 그대로 넣은 블로그 글 발행부터 — 첫 두 줄에 직접 답변(위치·수용인원·특징), 본문은 Q&A 소제목. 그랜드힐 추월까지 4건 필요 — 글 발행 후 카페 후기 1건에 같은 문구가 언급되게 하세요.",
+        "action": "「동시예식 웨딩홀 추천」를 제목에 그대로 넣은 블로그 글 발행부터 — 첫 두 줄에 직접 답변(위치·수용인원·특징), 본문은 Q&A 소제목. 그랜드힐 추월까지 3건 필요 — 글 발행 후 카페 후기 1건에 같은 문구가 언급되게 하세요.",
         "g_answer": false,
         "g_plenty": 0,
         "g_topRival": "빌라드지디",
@@ -195,11 +195,11 @@
         "question": "지방하객 많은 웨딩홀",
         "results": 30,
         "plenty": 0,
-        "topRival": "노블발렌티",
-        "rivalHits": 1,
-        "need": 2,
+        "topRival": "아펠가모",
+        "rivalHits": 2,
+        "need": 3,
         "state": "부재",
-        "action": "「지방하객 많은 웨딩홀」를 제목에 그대로 넣은 블로그 글 발행부터 — 첫 두 줄에 직접 답변(위치·수용인원·특징), 본문은 Q&A 소제목. 노블발렌티 추월까지 2건 필요 — 글 발행 후 카페 후기 1건에 같은 문구가 언급되게 하세요.",
+        "action": "「지방하객 많은 웨딩홀」를 제목에 그대로 넣은 블로그 글 발행부터 — 첫 두 줄에 직접 답변(위치·수용인원·특징), 본문은 Q&A 소제목. 아펠가모 추월까지 3건 필요 — 글 발행 후 카페 후기 1건에 같은 문구가 언급되게 하세요.",
         "g_answer": false,
         "g_plenty": 0,
         "g_topRival": "더컨벤션",
@@ -218,16 +218,116 @@
     "since": "2026-10-07",
     "until": "2026-10-07",
     "property_id": "536793119",
-    "note": "추적을 시작한 지 얼마 되지 않아 집계가 아직 비어 있습니다. 구글 애널리틱스 표준 리포트는 수집 후 반영까지 최대 24~48시간 걸립니다.",
+    "note": "",
     "totals": {
-      "users": 0,
-      "sessions": 0,
-      "views": 0,
-      "engagement": 0.0
+      "users": 15,
+      "sessions": 21,
+      "views": 71,
+      "engagement": 4.8
     },
-    "channels": [],
-    "sources": [],
-    "pages": [],
-    "daily": []
+    "channels": [
+      {
+        "name": "분류 안 됨",
+        "raw": "Unassigned",
+        "sessions": 13,
+        "users": 10
+      },
+      {
+        "name": "직접 방문",
+        "raw": "Direct",
+        "sessions": 8,
+        "users": 7
+      },
+      {
+        "name": "Cross-network",
+        "raw": "Cross-network",
+        "sessions": 7,
+        "users": 7
+      },
+      {
+        "name": "다른 사이트 링크",
+        "raw": "Referral",
+        "sessions": 2,
+        "users": 2
+      },
+      {
+        "name": "검색(자연유입)",
+        "raw": "Organic Search",
+        "sessions": 1,
+        "users": 1
+      }
+    ],
+    "sources": [
+      {
+        "source": "(not set)",
+        "medium": "(not set)",
+        "sessions": 13
+      },
+      {
+        "source": "(direct)",
+        "medium": "(none)",
+        "sessions": 8
+      },
+      {
+        "source": "(data not available)",
+        "medium": "(data not available)",
+        "sessions": 7
+      },
+      {
+        "source": "pcmap.place.naver.com",
+        "medium": "referral",
+        "sessions": 2
+      },
+      {
+        "source": "naver",
+        "medium": "organic",
+        "sessions": 1
+      }
+    ],
+    "pages": [
+      {
+        "path": "/",
+        "views": 21
+      },
+      {
+        "path": "/admin/wedding/",
+        "views": 21
+      },
+      {
+        "path": "/admin/calendar/",
+        "views": 13
+      },
+      {
+        "path": "/schedule/",
+        "views": 8
+      },
+      {
+        "path": "/privacy/",
+        "views": 3
+      },
+      {
+        "path": "/admin/",
+        "views": 2
+      },
+      {
+        "path": "/faq/",
+        "views": 1
+      },
+      {
+        "path": "/hall/",
+        "views": 1
+      },
+      {
+        "path": "/wedding/pzFqqa1eNgguf9TF/",
+        "views": 1
+      }
+    ],
+    "daily": [
+      {
+        "date": "2026-10-07",
+        "sessions": 21,
+        "users": 15
+      }
+    ]
   }
 }
