@@ -387,23 +387,23 @@ ${i.slides.map((v,k)=>`${k+1}. ${v}`).join(`
           <tbody>${d}</tbody>
         </table></div>
       </div>
-    </div>`}function gh(s){if(!s||!s.enabled){const c=s!=null&&s.reason?x(s.reason):"아직 연결되지 않았습니다.";return`<div class="row full"><div class="card">
+    </div>`}function gh(s){if(!s||!s.enabled){const f=s!=null&&s.reason?x(s.reason):"아직 연결되지 않았습니다.";return`<div class="row full"><div class="card">
       <h2>홈페이지 유입 <span class="asof">구글 애널리틱스</span></h2>
-      ${N(`${c} 연결되면 방문자 수와 유입 경로(검색·SNS·광고·직접)가 여기에 표시됩니다.`)}
-    </div></div>`}const t=s.totals||{users:0,sessions:0,views:0,engagement:0},e=s.channels||[],i=e.reduce((c,h)=>c+h.sessions,0)||1,n=e.map(c=>`<tr>
-        <td><b>${x(c.name)}</b></td>
-        <td><div class="wkcell"><div class="wktrack"><div class="wkbar" style="width:${(c.sessions/i*100).toFixed(0)}%"></div></div><span class="wkval">${M(c.sessions)}</span></div></td>
-        <td>${(c.sessions/i*100).toFixed(0)}%</td>
-        <td>${M(c.users)}</td>
-      </tr>`).join(""),o=(s.sources||[]).slice(0,10).map(c=>`<tr><td>${x(c.source)}</td><td>${x(c.medium)}</td><td>${M(c.sessions)}</td></tr>`).join(""),a=(s.pages||[]).slice(0,8).map(c=>`<tr><td>${x(c.path)}</td><td>${M(c.views)}</td></tr>`).join("");if(s.note)return`<div class="row full"><div class="card">
+      ${N(`${f} 연결되면 방문자 수와 유입 경로(검색·SNS·광고·직접)가 여기에 표시됩니다.`)}
+    </div></div>`}const t=s.totals||{users:0,sessions:0,views:0,engagement:0},e=s.channels||[],i=e.reduce((f,p)=>f+p.sessions,0)||1,n=e.map(f=>`<tr>
+        <td><b>${x(f.name)}</b>${f.note?`<div style="font-weight:400;color:var(--ink-faint);font-size:12px;margin-top:2px">${x(f.note)}</div>`:""}</td>
+        <td><div class="wkcell"><div class="wktrack"><div class="wkbar" style="width:${(f.sessions/i*100).toFixed(0)}%"></div></div><span class="wkval">${M(f.sessions)}</span></div></td>
+        <td>${(f.sessions/i*100).toFixed(0)}%</td>
+        <td>${M(f.users)}</td>
+      </tr>`).join(""),o=(s.sources||[]).slice(0,10).map(f=>`<tr><td>${x(f.label||`${f.source} / ${f.medium}`)}</td><td>${M(f.sessions)}</td></tr>`).join(""),a=(s.pages||[]).slice(0,8).map(f=>`<tr><td>${x(f.name||f.path)}</td><td>${M(f.views)}</td></tr>`).join("");if(s.note)return`<div class="row full"><div class="card">
       <h2>홈페이지 유입 <span class="asof">${x(s.since||"")} ~ ${x(s.until||"")} · 구글 애널리틱스</span></h2>
       ${N(s.note)}
-    </div></div>`;const r=e[0],l=r?`<p class="desc">가장 많은 유입은 <b>${x(r.name)}</b>(세션 ${M(r.sessions)}회, 전체의
-       ${(r.sessions/i*100).toFixed(0)}%)입니다. 광고로 들어온 방문이 전체에서 어느 정도인지,
-       광고를 끄면 무엇이 남는지를 이 비중으로 판단하세요.</p>`:"";return`<div class="row full"><div class="card">
+    </div></div>`;const r=["경로 확인 안 됨"],l=e.filter(f=>!r.includes(f.name)),h=e.filter(f=>r.includes(f.name)).reduce((f,p)=>f+p.sessions,0),d=l[0],u=d?`<p class="desc">경로가 확인된 방문 중에서는 <b>${x(d.name)}</b>가 가장 많습니다
+       (${M(d.sessions)}회).${h?` 전체 ${M(i)}회 중 ${M(h)}회(${(h/i*100).toFixed(0)}%)는
+             경로가 확인되지 않았습니다 — 측정을 막 시작한 구간에서는 흔한 일이며, 며칠 지나면 줄어듭니다.`:""}</p>`:"";return`<div class="row full"><div class="card">
       <h2>홈페이지 유입 <span class="asof">${x(s.since||"")} ~ ${x(s.until||"")} · 구글 애널리틱스</span></h2>
       <p class="desc">홈페이지에 실제로 몇 명이 왔고 어디서 왔는지. 광고 '클릭'과 달리 <b>도착한 사람</b>을 셉니다.</p>
-      ${l}
+      ${u}
       <div class="insta-grid" style="grid-template-columns:repeat(4,1fr)">
         <div class="istat"><div class="k">방문자</div><div class="v">${M(t.users)}</div></div>
         <div class="istat"><div class="k">방문 횟수(세션)</div><div class="v">${M(t.sessions)}</div></div>
@@ -417,12 +417,12 @@ ${i.slides.map((v,k)=>`${k+1}. ${v}`).join(`
       <div class="row c-1-1" style="margin-top:14px">
         <div><h3 style="font-size:14px;margin:0 0 6px">어디서 왔나 (출처/매체)</h3>
           <div class="tbl-scroll"><table class="cum">
-            <thead><tr><th>출처</th><th>매체</th><th>방문</th></tr></thead>
-            <tbody>${o||'<tr><td colspan="3">—</td></tr>'}</tbody>
+            <thead><tr><th>들어온 곳</th><th>방문</th></tr></thead>
+            <tbody>${o||'<tr><td colspan="2">—</td></tr>'}</tbody>
           </table></div></div>
         <div><h3 style="font-size:14px;margin:0 0 6px">많이 본 페이지</h3>
           <div class="tbl-scroll"><table class="cum">
-            <thead><tr><th>페이지</th><th>조회</th></tr></thead>
+            <thead><tr><th>화면</th><th>조회</th></tr></thead>
             <tbody>${a||'<tr><td colspan="2">—</td></tr>'}</tbody>
           </table></div></div>
       </div>

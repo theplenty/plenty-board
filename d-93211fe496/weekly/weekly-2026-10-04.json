@@ -227,58 +227,68 @@
     },
     "channels": [
       {
-        "name": "분류 안 됨",
+        "name": "경로 확인 안 됨",
         "raw": "Unassigned",
+        "note": "어디서 왔는지 신호가 없는 방문(앱·메신저 내부 브라우저, 보안 설정 등). 측정 초기에 특히 많습니다",
         "sessions": 13,
         "users": 10
       },
       {
         "name": "직접 방문",
         "raw": "Direct",
+        "note": "주소를 직접 입력하거나 즐겨찾기로 들어온 방문",
         "sessions": 8,
         "users": 7
       },
       {
-        "name": "Cross-network",
+        "name": "광고(여러 매체 혼합)",
         "raw": "Cross-network",
+        "note": "구글 광고가 검색·유튜브·디스플레이에 함께 노출돼 한 곳으로 특정할 수 없는 방문",
         "sessions": 7,
         "users": 7
       },
       {
         "name": "다른 사이트 링크",
         "raw": "Referral",
+        "note": "다른 웹사이트에 걸린 링크를 눌러 들어온 방문",
         "sessions": 2,
         "users": 2
       },
       {
         "name": "검색(자연유입)",
         "raw": "Organic Search",
+        "note": "",
         "sessions": 1,
         "users": 1
       }
     ],
     "sources": [
       {
+        "label": "확인 안 됨",
         "source": "(not set)",
         "medium": "(not set)",
         "sessions": 13
       },
       {
+        "label": "직접 방문 (주소 입력·즐겨찾기)",
         "source": "(direct)",
         "medium": "(none)",
         "sessions": 8
       },
       {
+        "label": "구글 광고 (상세 미제공)",
         "source": "(data not available)",
         "medium": "(data not available)",
         "sessions": 7
       },
       {
+        "label": "네이버 지도·플레이스 (링크)",
         "source": "pcmap.place.naver.com",
         "medium": "referral",
         "sessions": 2
       },
       {
+        "label": "네이버 (검색)",
         "source": "naver",
         "medium": "organic",
         "sessions": 1
@@ -286,38 +296,37 @@
     ],
     "pages": [
       {
+        "name": "관리자 화면 (내부 도구 · 10/8부터 집계 제외)",
+        "path": "/admin/wedding/",
+        "views": 36
+      },
+      {
+        "name": "홈",
         "path": "/",
         "views": 21
       },
       {
-        "path": "/admin/wedding/",
-        "views": 21
-      },
-      {
-        "path": "/admin/calendar/",
-        "views": 13
-      },
-      {
+        "name": "대관 가능일 확인",
         "path": "/schedule/",
         "views": 8
       },
       {
+        "name": "개인정보처리방침",
         "path": "/privacy/",
         "views": 3
       },
       {
-        "path": "/admin/",
-        "views": 2
-      },
-      {
+        "name": "FAQ",
         "path": "/faq/",
         "views": 1
       },
       {
+        "name": "웨딩홀 안내",
         "path": "/hall/",
         "views": 1
       },
       {
+        "name": "고객 전용 예식 안내 페이지",
         "path": "/wedding/pzFqqa1eNgguf9TF/",
         "views": 1
       }
