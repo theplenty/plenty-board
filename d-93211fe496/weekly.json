@@ -3,7 +3,7 @@
     "2026-09-28",
     "2026-10-04"
   ],
-  "generated_at": "2026-10-09T09:05:40.892970+09:00",
+  "generated_at": "2026-10-10T09:05:37.291694+09:00",
   "totals": {
     "spend": 324366,
     "clicks": 267,
@@ -22,31 +22,31 @@
   "trends": [
     {
       "keyword": "플렌티컨벤션",
-      "delta": 15.9
+      "delta": 18.5
     },
     {
       "keyword": "플렌티 웨딩",
-      "delta": 15.9
+      "delta": 18.5
     },
     {
       "keyword": "강남 웨딩홀",
-      "delta": -3.6
+      "delta": -12.4
     },
     {
       "keyword": "서초 웨딩홀",
-      "delta": -3.6
+      "delta": -12.4
     },
     {
       "keyword": "고속터미널 웨딩홀",
-      "delta": -3.6
+      "delta": -12.4
     },
     {
       "keyword": "단독홀 웨딩",
-      "delta": -50.0
+      "delta": -40.0
     },
     {
       "keyword": "단독예식",
-      "delta": -50.0
+      "delta": -40.0
     }
   ],
   "strategy": [
@@ -91,10 +91,10 @@
         "results": 30,
         "plenty": 0,
         "topRival": "노블발렌티",
-        "rivalHits": 5,
-        "need": 6,
+        "rivalHits": 4,
+        "need": 5,
         "state": "부재",
-        "action": "「강남 단독홀 웨딩홀」를 제목에 그대로 넣은 블로그 글 발행부터 — 첫 두 줄에 직접 답변(위치·수용인원·특징), 본문은 Q&A 소제목. 노블발렌티 추월까지 6건 필요 — 글 발행 후 카페 후기 1건에 같은 문구가 언급되게 하세요.",
+        "action": "「강남 단독홀 웨딩홀」를 제목에 그대로 넣은 블로그 글 발행부터 — 첫 두 줄에 직접 답변(위치·수용인원·특징), 본문은 Q&A 소제목. 노블발렌티 추월까지 5건 필요 — 글 발행 후 카페 후기 1건에 같은 문구가 언급되게 하세요.",
         "g_answer": false,
         "g_plenty": 0,
         "g_topRival": "소노펠리체",
@@ -151,10 +151,10 @@
         "results": 30,
         "plenty": 0,
         "topRival": "그랜드힐",
-        "rivalHits": 3,
-        "need": 4,
+        "rivalHits": 2,
+        "need": 3,
         "state": "부재",
-        "action": "「동시예식 웨딩홀 추천」를 제목에 그대로 넣은 블로그 글 발행부터 — 첫 두 줄에 직접 답변(위치·수용인원·특징), 본문은 Q&A 소제목. 그랜드힐 추월까지 4건 필요 — 글 발행 후 카페 후기 1건에 같은 문구가 언급되게 하세요.",
+        "action": "「동시예식 웨딩홀 추천」를 제목에 그대로 넣은 블로그 글 발행부터 — 첫 두 줄에 직접 답변(위치·수용인원·특징), 본문은 Q&A 소제목. 그랜드힐 추월까지 3건 필요 — 글 발행 후 카페 후기 1건에 같은 문구가 언급되게 하세요.",
         "g_answer": false,
         "g_plenty": 0,
         "g_topRival": "빌라드지디",
@@ -216,48 +216,55 @@
   "ga4": {
     "enabled": true,
     "since": "2026-10-07",
-    "until": "2026-10-08",
+    "until": "2026-10-09",
     "property_id": "536793119",
     "note": "",
     "totals": {
-      "users": 55,
-      "sessions": 79,
-      "views": 148,
-      "engagement": 68.4
+      "users": 93,
+      "sessions": 122,
+      "views": 234,
+      "engagement": 69.7
     },
     "channels": [
       {
         "name": "검색(자연유입)",
         "raw": "Organic Search",
         "note": "",
-        "sessions": 44,
-        "users": 34
+        "sessions": 69,
+        "users": 57
       },
       {
         "name": "직접 방문",
         "raw": "Direct",
         "note": "주소를 직접 입력하거나 즐겨찾기로 들어온 방문",
-        "sessions": 26,
-        "users": 16
+        "sessions": 40,
+        "users": 28
       },
       {
         "name": "다른 사이트 링크",
         "raw": "Referral",
         "note": "다른 웹사이트에 걸린 링크를 눌러 들어온 방문",
-        "sessions": 8,
-        "users": 5
+        "sessions": 9,
+        "users": 6
       },
       {
-        "name": "경로 확인 안 됨",
-        "raw": "Unassigned",
-        "note": "어디서 왔는지 신호가 없는 방문(앱·메신저 내부 브라우저, 보안 설정 등). 측정 초기에 특히 많습니다",
-        "sessions": 3,
-        "users": 3
+        "name": "AI Assistant",
+        "raw": "AI Assistant",
+        "note": "",
+        "sessions": 2,
+        "users": 2
       },
       {
         "name": "광고(여러 매체 혼합)",
         "raw": "Cross-network",
         "note": "구글 광고가 검색·유튜브·디스플레이에 함께 노출돼 한 곳으로 특정할 수 없는 방문",
+        "sessions": 2,
+        "users": 2
+      },
+      {
+        "name": "경로 확인 안 됨",
+        "raw": "Unassigned",
+        "note": "어디서 왔는지 신호가 없는 방문(앱·메신저 내부 브라우저, 보안 설정 등). 측정 초기에 특히 많습니다",
         "sessions": 1,
         "users": 1
       }
@@ -267,48 +274,54 @@
         "label": "직접 방문 (주소 입력·즐겨찾기)",
         "source": "(direct)",
         "medium": "(none)",
-        "sessions": 26
-      },
-      {
-        "label": "구글 (검색)",
-        "source": "google",
-        "medium": "organic",
-        "sessions": 16
+        "sessions": 40
       },
       {
         "label": "네이버 검색 (링크)",
         "source": "m.search.naver.com",
         "medium": "referral",
-        "sessions": 14
+        "sessions": 28
+      },
+      {
+        "label": "구글 (검색)",
+        "source": "google",
+        "medium": "organic",
+        "sessions": 25
       },
       {
         "label": "네이버 (검색)",
         "source": "naver",
         "medium": "organic",
-        "sessions": 13
+        "sessions": 14
       },
       {
         "label": "네이버 지도·플레이스 (링크)",
         "source": "pcmap.place.naver.com",
         "medium": "referral",
-        "sessions": 8
-      },
-      {
-        "label": "확인 안 됨",
-        "source": "(not set)",
-        "medium": "(not set)",
-        "sessions": 3
+        "sessions": 9
       },
       {
         "label": "구글 광고 (상세 미제공)",
         "source": "(data not available)",
         "medium": "(data not available)",
-        "sessions": 1
+        "sessions": 2
       },
       {
         "label": "bing (검색)",
         "source": "bing",
         "medium": "organic",
+        "sessions": 2
+      },
+      {
+        "label": "chatgpt.com",
+        "source": "chatgpt.com",
+        "medium": "ai-assistant",
+        "sessions": 2
+      },
+      {
+        "label": "확인 안 됨",
+        "source": "(not set)",
+        "medium": "(not set)",
         "sessions": 1
       }
     ],
@@ -316,7 +329,12 @@
       {
         "name": "홈",
         "path": "/",
-        "views": 68
+        "views": 111
+      },
+      {
+        "name": "대관 가능일 확인",
+        "path": "/schedule/",
+        "views": 44
       },
       {
         "name": "관리자 화면 (내부 도구 · 10/8부터 집계 제외)",
@@ -324,14 +342,19 @@
         "views": 36
       },
       {
-        "name": "대관 가능일 확인",
-        "path": "/schedule/",
-        "views": 25
-      },
-      {
         "name": "오시는 길·주차",
         "path": "/location/",
-        "views": 9
+        "views": 27
+      },
+      {
+        "name": "웨딩홀 안내",
+        "path": "/hall/",
+        "views": 4
+      },
+      {
+        "name": "FAQ",
+        "path": "/faq/",
+        "views": 3
       },
       {
         "name": "개인정보처리방침",
@@ -339,18 +362,8 @@
         "views": 3
       },
       {
-        "name": "FAQ",
-        "path": "/faq/",
-        "views": 2
-      },
-      {
-        "name": "웨딩홀 안내",
-        "path": "/hall/",
-        "views": 2
-      },
-      {
-        "name": "고객 전용 예식 안내 페이지",
-        "path": "/wedding/pzFqqa1eNgguf9TF/",
+        "name": "/default/plenty/community/sub01.php",
+        "path": "/default/plenty/community/sub01.php",
         "views": 2
       }
     ],
@@ -364,6 +377,11 @@
         "date": "2026-10-08",
         "sessions": 56,
         "users": 44
+      },
+      {
+        "date": "2026-10-09",
+        "sessions": 43,
+        "users": 41
       }
     ]
   }
