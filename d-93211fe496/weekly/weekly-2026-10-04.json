@@ -3,7 +3,7 @@
     "2026-09-28",
     "2026-10-04"
   ],
-  "generated_at": "2026-10-10T09:05:37.291694+09:00",
+  "generated_at": "2026-10-11T09:05:35.126370+09:00",
   "totals": {
     "spend": 324366,
     "clicks": 267,
@@ -22,31 +22,31 @@
   "trends": [
     {
       "keyword": "플렌티컨벤션",
-      "delta": 18.5
+      "delta": 3.3
     },
     {
       "keyword": "플렌티 웨딩",
-      "delta": 18.5
+      "delta": 3.3
     },
     {
       "keyword": "강남 웨딩홀",
-      "delta": -12.4
+      "delta": -15.8
     },
     {
       "keyword": "서초 웨딩홀",
-      "delta": -12.4
+      "delta": -15.8
     },
     {
       "keyword": "고속터미널 웨딩홀",
-      "delta": -12.4
+      "delta": -15.8
     },
     {
       "keyword": "단독홀 웨딩",
-      "delta": -40.0
+      "delta": -20.0
     },
     {
       "keyword": "단독예식",
-      "delta": -40.0
+      "delta": -20.0
     }
   ],
   "strategy": [
@@ -91,10 +91,10 @@
         "results": 30,
         "plenty": 0,
         "topRival": "노블발렌티",
-        "rivalHits": 4,
-        "need": 5,
+        "rivalHits": 5,
+        "need": 6,
         "state": "부재",
-        "action": "「강남 단독홀 웨딩홀」를 제목에 그대로 넣은 블로그 글 발행부터 — 첫 두 줄에 직접 답변(위치·수용인원·특징), 본문은 Q&A 소제목. 노블발렌티 추월까지 5건 필요 — 글 발행 후 카페 후기 1건에 같은 문구가 언급되게 하세요.",
+        "action": "「강남 단독홀 웨딩홀」를 제목에 그대로 넣은 블로그 글 발행부터 — 첫 두 줄에 직접 답변(위치·수용인원·특징), 본문은 Q&A 소제목. 노블발렌티 추월까지 6건 필요 — 글 발행 후 카페 후기 1건에 같은 문구가 언급되게 하세요.",
         "g_answer": false,
         "g_plenty": 0,
         "g_topRival": "소노펠리체",
@@ -104,12 +104,12 @@
       {
         "question": "반포 웨딩홀 추천",
         "results": 30,
-        "plenty": 1,
+        "plenty": 0,
         "topRival": "아펠가모",
-        "rivalHits": 11,
-        "need": 11,
-        "state": "열세",
-        "action": "기존 언급 글 1건의 제목·첫 문단에 「반포 웨딩홀 추천」 문구가 정확히 들어가게 보강하고, 신규 글·카페 후기로 11건 추가 확보하면 아펠가모(11건)를 추월합니다.",
+        "rivalHits": 12,
+        "need": 13,
+        "state": "부재",
+        "action": "「반포 웨딩홀 추천」를 제목에 그대로 넣은 블로그 글 발행부터 — 첫 두 줄에 직접 답변(위치·수용인원·특징), 본문은 Q&A 소제목. 아펠가모 추월까지 13건 필요 — 글 발행 후 카페 후기 1건에 같은 문구가 언급되게 하세요.",
         "g_answer": false,
         "g_plenty": 0,
         "g_topRival": "세빛섬",
@@ -151,10 +151,10 @@
         "results": 30,
         "plenty": 0,
         "topRival": "그랜드힐",
-        "rivalHits": 2,
-        "need": 3,
+        "rivalHits": 3,
+        "need": 4,
         "state": "부재",
-        "action": "「동시예식 웨딩홀 추천」를 제목에 그대로 넣은 블로그 글 발행부터 — 첫 두 줄에 직접 답변(위치·수용인원·특징), 본문은 Q&A 소제목. 그랜드힐 추월까지 3건 필요 — 글 발행 후 카페 후기 1건에 같은 문구가 언급되게 하세요.",
+        "action": "「동시예식 웨딩홀 추천」를 제목에 그대로 넣은 블로그 글 발행부터 — 첫 두 줄에 직접 답변(위치·수용인원·특징), 본문은 Q&A 소제목. 그랜드힐 추월까지 4건 필요 — 글 발행 후 카페 후기 1건에 같은 문구가 언급되게 하세요.",
         "g_answer": false,
         "g_plenty": 0,
         "g_topRival": "빌라드지디",
@@ -207,7 +207,7 @@
         "g_sources": 8
       }
     ],
-    "mentioned_q": 2,
+    "mentioned_q": 1,
     "total_q": 10,
     "next_step": "「어두운 웨딩홀 추천」를 제목에 그대로 넣은 블로그 글 발행부터 — 첫 두 줄에 직접 답변(위치·수용인원·특징), 본문은 Q&A 소제목. 빌라드지디 추월까지 2건 필요 — 글 발행 후 카페 후기 1건에 같은 문구가 언급되게 하세요.",
     "google_enabled": true,
@@ -216,29 +216,29 @@
   "ga4": {
     "enabled": true,
     "since": "2026-10-07",
-    "until": "2026-10-09",
+    "until": "2026-10-10",
     "property_id": "536793119",
     "note": "",
     "totals": {
-      "users": 93,
-      "sessions": 122,
-      "views": 234,
-      "engagement": 69.7
+      "users": 104,
+      "sessions": 134,
+      "views": 255,
+      "engagement": 71.6
     },
     "channels": [
       {
         "name": "검색(자연유입)",
         "raw": "Organic Search",
         "note": "",
-        "sessions": 69,
-        "users": 57
+        "sessions": 81,
+        "users": 67
       },
       {
         "name": "직접 방문",
         "raw": "Direct",
         "note": "주소를 직접 입력하거나 즐겨찾기로 들어온 방문",
-        "sessions": 40,
-        "users": 28
+        "sessions": 42,
+        "users": 30
       },
       {
         "name": "다른 사이트 링크",
@@ -255,13 +255,6 @@
         "users": 2
       },
       {
-        "name": "광고(여러 매체 혼합)",
-        "raw": "Cross-network",
-        "note": "구글 광고가 검색·유튜브·디스플레이에 함께 노출돼 한 곳으로 특정할 수 없는 방문",
-        "sessions": 2,
-        "users": 2
-      },
-      {
         "name": "경로 확인 안 됨",
         "raw": "Unassigned",
         "note": "어디서 왔는지 신호가 없는 방문(앱·메신저 내부 브라우저, 보안 설정 등). 측정 초기에 특히 많습니다",
@@ -274,37 +267,31 @@
         "label": "직접 방문 (주소 입력·즐겨찾기)",
         "source": "(direct)",
         "medium": "(none)",
-        "sessions": 40
+        "sessions": 42
       },
       {
         "label": "네이버 검색 (링크)",
         "source": "m.search.naver.com",
         "medium": "referral",
-        "sessions": 28
+        "sessions": 34
       },
       {
         "label": "구글 (검색)",
         "source": "google",
         "medium": "organic",
-        "sessions": 25
+        "sessions": 29
       },
       {
         "label": "네이버 (검색)",
         "source": "naver",
         "medium": "organic",
-        "sessions": 14
+        "sessions": 16
       },
       {
         "label": "네이버 지도·플레이스 (링크)",
         "source": "pcmap.place.naver.com",
         "medium": "referral",
         "sessions": 9
-      },
-      {
-        "label": "구글 광고 (상세 미제공)",
-        "source": "(data not available)",
-        "medium": "(data not available)",
-        "sessions": 2
       },
       {
         "label": "bing (검색)",
@@ -329,12 +316,12 @@
       {
         "name": "홈",
         "path": "/",
-        "views": 111
+        "views": 122
       },
       {
         "name": "대관 가능일 확인",
         "path": "/schedule/",
-        "views": 44
+        "views": 48
       },
       {
         "name": "관리자 화면 (내부 도구 · 10/8부터 집계 제외)",
@@ -344,12 +331,12 @@
       {
         "name": "오시는 길·주차",
         "path": "/location/",
-        "views": 27
+        "views": 30
       },
       {
         "name": "웨딩홀 안내",
         "path": "/hall/",
-        "views": 4
+        "views": 5
       },
       {
         "name": "FAQ",
@@ -362,9 +349,9 @@
         "views": 3
       },
       {
-        "name": "/default/plenty/community/sub01.php",
-        "path": "/default/plenty/community/sub01.php",
-        "views": 2
+        "name": "고객 후기",
+        "path": "/review/",
+        "views": 3
       }
     ],
     "daily": [
@@ -382,6 +369,11 @@
         "date": "2026-10-09",
         "sessions": 43,
         "users": 41
+      },
+      {
+        "date": "2026-10-10",
+        "sessions": 12,
+        "users": 11
       }
     ]
   }
