@@ -1,20 +1,20 @@
 {
   "period": [
-    "2026-09-28",
-    "2026-10-04"
+    "2026-10-05",
+    "2026-10-11"
   ],
-  "generated_at": "2026-10-11T09:05:35.126370+09:00",
+  "generated_at": "2026-10-12T09:05:53.072349+09:00",
   "totals": {
-    "spend": 324366,
-    "clicks": 267,
+    "spend": 345479,
+    "clicks": 271,
     "conv": 0,
     "cpa": 0
   },
   "channels": [
     {
       "name": "naver",
-      "spend": 324366,
-      "clicks": 267,
+      "spend": 345479,
+      "clicks": 271,
       "conv": 0,
       "cpa": 0
     }
@@ -22,31 +22,31 @@
   "trends": [
     {
       "keyword": "플렌티컨벤션",
-      "delta": 3.3
+      "delta": 5.8
     },
     {
       "keyword": "플렌티 웨딩",
-      "delta": 3.3
+      "delta": 5.8
     },
     {
       "keyword": "강남 웨딩홀",
-      "delta": -15.8
+      "delta": -14.5
     },
     {
       "keyword": "서초 웨딩홀",
-      "delta": -15.8
+      "delta": -14.5
     },
     {
       "keyword": "고속터미널 웨딩홀",
-      "delta": -15.8
+      "delta": -14.5
     },
     {
       "keyword": "단독홀 웨딩",
-      "delta": -20.0
+      "delta": -15.6
     },
     {
       "keyword": "단독예식",
-      "delta": -20.0
+      "delta": -15.6
     }
   ],
   "strategy": [
@@ -61,10 +61,10 @@
         "results": 30,
         "plenty": 1,
         "topRival": "아펠가모",
-        "rivalHits": 3,
-        "need": 3,
+        "rivalHits": 4,
+        "need": 4,
         "state": "열세",
-        "action": "기존 언급 글 1건의 제목·첫 문단에 「고속터미널 웨딩홀 추천」 문구가 정확히 들어가게 보강하고, 신규 글·카페 후기로 3건 추가 확보하면 아펠가모(3건)를 추월합니다.",
+        "action": "기존 언급 글 1건의 제목·첫 문단에 「고속터미널 웨딩홀 추천」 문구가 정확히 들어가게 보강하고, 신규 글·카페 후기로 4건 추가 확보하면 아펠가모(4건)를 추월합니다.",
         "g_answer": false,
         "g_plenty": 0,
         "g_topRival": "더컨벤션",
@@ -91,10 +91,10 @@
         "results": 30,
         "plenty": 0,
         "topRival": "노블발렌티",
-        "rivalHits": 5,
-        "need": 6,
+        "rivalHits": 4,
+        "need": 5,
         "state": "부재",
-        "action": "「강남 단독홀 웨딩홀」를 제목에 그대로 넣은 블로그 글 발행부터 — 첫 두 줄에 직접 답변(위치·수용인원·특징), 본문은 Q&A 소제목. 노블발렌티 추월까지 6건 필요 — 글 발행 후 카페 후기 1건에 같은 문구가 언급되게 하세요.",
+        "action": "「강남 단독홀 웨딩홀」를 제목에 그대로 넣은 블로그 글 발행부터 — 첫 두 줄에 직접 답변(위치·수용인원·특징), 본문은 Q&A 소제목. 노블발렌티 추월까지 5건 필요 — 글 발행 후 카페 후기 1건에 같은 문구가 언급되게 하세요.",
         "g_answer": false,
         "g_plenty": 0,
         "g_topRival": "소노펠리체",
@@ -104,12 +104,12 @@
       {
         "question": "반포 웨딩홀 추천",
         "results": 30,
-        "plenty": 0,
+        "plenty": 1,
         "topRival": "아펠가모",
-        "rivalHits": 12,
-        "need": 13,
-        "state": "부재",
-        "action": "「반포 웨딩홀 추천」를 제목에 그대로 넣은 블로그 글 발행부터 — 첫 두 줄에 직접 답변(위치·수용인원·특징), 본문은 Q&A 소제목. 아펠가모 추월까지 13건 필요 — 글 발행 후 카페 후기 1건에 같은 문구가 언급되게 하세요.",
+        "rivalHits": 11,
+        "need": 11,
+        "state": "열세",
+        "action": "기존 언급 글 1건의 제목·첫 문단에 「반포 웨딩홀 추천」 문구가 정확히 들어가게 보강하고, 신규 글·카페 후기로 11건 추가 확보하면 아펠가모(11건)를 추월합니다.",
         "g_answer": false,
         "g_plenty": 0,
         "g_topRival": "세빛섬",
@@ -121,10 +121,10 @@
         "results": 30,
         "plenty": 0,
         "topRival": "빌라드지디",
-        "rivalHits": 2,
-        "need": 3,
+        "rivalHits": 1,
+        "need": 2,
         "state": "부재",
-        "action": "「서울 실내 단독홀 웨딩」를 제목에 그대로 넣은 블로그 글 발행부터 — 첫 두 줄에 직접 답변(위치·수용인원·특징), 본문은 Q&A 소제목. 빌라드지디 추월까지 3건 필요 — 글 발행 후 카페 후기 1건에 같은 문구가 언급되게 하세요.",
+        "action": "「서울 실내 단독홀 웨딩」를 제목에 그대로 넣은 블로그 글 발행부터 — 첫 두 줄에 직접 답변(위치·수용인원·특징), 본문은 Q&A 소제목. 빌라드지디 추월까지 2건 필요 — 글 발행 후 카페 후기 1건에 같은 문구가 언급되게 하세요.",
         "g_answer": false,
         "g_plenty": 0,
         "g_topRival": "노블발렌티",
@@ -195,11 +195,11 @@
         "question": "지방하객 많은 웨딩홀",
         "results": 30,
         "plenty": 0,
-        "topRival": "노블발렌티",
+        "topRival": "루이비스",
         "rivalHits": 1,
         "need": 2,
         "state": "부재",
-        "action": "「지방하객 많은 웨딩홀」를 제목에 그대로 넣은 블로그 글 발행부터 — 첫 두 줄에 직접 답변(위치·수용인원·특징), 본문은 Q&A 소제목. 노블발렌티 추월까지 2건 필요 — 글 발행 후 카페 후기 1건에 같은 문구가 언급되게 하세요.",
+        "action": "「지방하객 많은 웨딩홀」를 제목에 그대로 넣은 블로그 글 발행부터 — 첫 두 줄에 직접 답변(위치·수용인원·특징), 본문은 Q&A 소제목. 루이비스 추월까지 2건 필요 — 글 발행 후 카페 후기 1건에 같은 문구가 언급되게 하세요.",
         "g_answer": false,
         "g_plenty": 0,
         "g_topRival": "더컨벤션",
@@ -207,45 +207,45 @@
         "g_sources": 8
       }
     ],
-    "mentioned_q": 1,
+    "mentioned_q": 2,
     "total_q": 10,
-    "next_step": "「어두운 웨딩홀 추천」를 제목에 그대로 넣은 블로그 글 발행부터 — 첫 두 줄에 직접 답변(위치·수용인원·특징), 본문은 Q&A 소제목. 빌라드지디 추월까지 2건 필요 — 글 발행 후 카페 후기 1건에 같은 문구가 언급되게 하세요.",
+    "next_step": "「서울 실내 단독홀 웨딩」를 제목에 그대로 넣은 블로그 글 발행부터 — 첫 두 줄에 직접 답변(위치·수용인원·특징), 본문은 Q&A 소제목. 빌라드지디 추월까지 2건 필요 — 글 발행 후 카페 후기 1건에 같은 문구가 언급되게 하세요.",
     "google_enabled": true,
     "google_measured_at": "2026-10-06"
   },
   "ga4": {
     "enabled": true,
     "since": "2026-10-07",
-    "until": "2026-10-10",
+    "until": "2026-10-11",
     "property_id": "536793119",
     "note": "",
     "totals": {
-      "users": 104,
-      "sessions": 134,
-      "views": 255,
-      "engagement": 71.6
+      "users": 127,
+      "sessions": 161,
+      "views": 291,
+      "engagement": 70.2
     },
     "channels": [
       {
         "name": "검색(자연유입)",
         "raw": "Organic Search",
         "note": "",
-        "sessions": 81,
-        "users": 67
+        "sessions": 101,
+        "users": 85
       },
       {
         "name": "직접 방문",
         "raw": "Direct",
         "note": "주소를 직접 입력하거나 즐겨찾기로 들어온 방문",
-        "sessions": 42,
-        "users": 30
+        "sessions": 46,
+        "users": 33
       },
       {
         "name": "다른 사이트 링크",
         "raw": "Referral",
         "note": "다른 웹사이트에 걸린 링크를 눌러 들어온 방문",
-        "sessions": 9,
-        "users": 6
+        "sessions": 12,
+        "users": 8
       },
       {
         "name": "AI Assistant",
@@ -253,51 +253,44 @@
         "note": "",
         "sessions": 2,
         "users": 2
-      },
-      {
-        "name": "경로 확인 안 됨",
-        "raw": "Unassigned",
-        "note": "어디서 왔는지 신호가 없는 방문(앱·메신저 내부 브라우저, 보안 설정 등). 측정 초기에 특히 많습니다",
-        "sessions": 1,
-        "users": 1
       }
     ],
     "sources": [
       {
-        "label": "직접 방문 (주소 입력·즐겨찾기)",
-        "source": "(direct)",
-        "medium": "(none)",
-        "sessions": 42
-      },
-      {
         "label": "네이버 검색 (링크)",
         "source": "m.search.naver.com",
         "medium": "referral",
-        "sessions": 34
+        "sessions": 48
+      },
+      {
+        "label": "직접 방문 (주소 입력·즐겨찾기)",
+        "source": "(direct)",
+        "medium": "(none)",
+        "sessions": 46
       },
       {
         "label": "구글 (검색)",
         "source": "google",
         "medium": "organic",
-        "sessions": 29
+        "sessions": 32
       },
       {
         "label": "네이버 (검색)",
         "source": "naver",
         "medium": "organic",
-        "sessions": 16
+        "sessions": 18
       },
       {
         "label": "네이버 지도·플레이스 (링크)",
         "source": "pcmap.place.naver.com",
         "medium": "referral",
-        "sessions": 9
+        "sessions": 10
       },
       {
         "label": "bing (검색)",
         "source": "bing",
         "medium": "organic",
-        "sessions": 2
+        "sessions": 3
       },
       {
         "label": "chatgpt.com",
@@ -306,22 +299,27 @@
         "sessions": 2
       },
       {
-        "label": "확인 안 됨",
-        "source": "(not set)",
-        "medium": "(not set)",
-        "sessions": 1
+        "label": "네이버 지도·플레이스 (링크)",
+        "source": "m.place.naver.com",
+        "medium": "referral",
+        "sessions": 2
       }
     ],
     "pages": [
       {
         "name": "홈",
         "path": "/",
-        "views": 122
+        "views": 143
       },
       {
         "name": "대관 가능일 확인",
         "path": "/schedule/",
-        "views": 48
+        "views": 54
+      },
+      {
+        "name": "오시는 길·주차",
+        "path": "/location/",
+        "views": 36
       },
       {
         "name": "관리자 화면 (내부 도구 · 10/8부터 집계 제외)",
@@ -329,28 +327,23 @@
         "views": 36
       },
       {
-        "name": "오시는 길·주차",
-        "path": "/location/",
-        "views": 30
-      },
-      {
         "name": "웨딩홀 안내",
         "path": "/hall/",
-        "views": 5
+        "views": 6
       },
       {
         "name": "FAQ",
         "path": "/faq/",
-        "views": 3
-      },
-      {
-        "name": "개인정보처리방침",
-        "path": "/privacy/",
-        "views": 3
+        "views": 4
       },
       {
         "name": "고객 후기",
         "path": "/review/",
+        "views": 4
+      },
+      {
+        "name": "개인정보처리방침",
+        "path": "/privacy/",
         "views": 3
       }
     ],
@@ -374,6 +367,11 @@
         "date": "2026-10-10",
         "sessions": 12,
         "users": 11
+      },
+      {
+        "date": "2026-10-11",
+        "sessions": 27,
+        "users": 24
       }
     ]
   }
