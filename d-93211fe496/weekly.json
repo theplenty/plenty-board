@@ -69,7 +69,17 @@
         "g_plenty": 0,
         "g_topRival": "더컨벤션",
         "g_rivalHits": 4,
-        "g_sources": 18
+        "g_sources": 18,
+        "c_answer": false,
+        "c_sources": 6,
+        "c_plenty": 0,
+        "c_topRival": "플로팅아일랜드",
+        "c_rivalHits": 1,
+        "x_answer": false,
+        "x_sources": 17,
+        "x_plenty": 0,
+        "x_topRival": "-",
+        "x_rivalHits": 0
       },
       {
         "question": "서초 웨딩홀 추천",
@@ -84,7 +94,17 @@
         "g_plenty": 0,
         "g_topRival": "엘타워",
         "g_rivalHits": 4,
-        "g_sources": 5
+        "g_sources": 5,
+        "c_answer": true,
+        "c_sources": 10,
+        "c_plenty": 1,
+        "c_topRival": "플로팅아일랜드",
+        "c_rivalHits": 1,
+        "x_answer": false,
+        "x_sources": 18,
+        "x_plenty": 0,
+        "x_topRival": "엘타워",
+        "x_rivalHits": 3
       },
       {
         "question": "강남 단독홀 웨딩홀",
@@ -99,7 +119,17 @@
         "g_plenty": 0,
         "g_topRival": "소노펠리체",
         "g_rivalHits": 1,
-        "g_sources": 8
+        "g_sources": 8,
+        "c_answer": true,
+        "c_sources": 7,
+        "c_plenty": 1,
+        "c_topRival": "빌라드지디",
+        "c_rivalHits": 2,
+        "x_answer": false,
+        "x_sources": 18,
+        "x_plenty": 0,
+        "x_topRival": "더채플",
+        "x_rivalHits": 2
       },
       {
         "question": "반포 웨딩홀 추천",
@@ -114,7 +144,17 @@
         "g_plenty": 0,
         "g_topRival": "세빛섬",
         "g_rivalHits": 3,
-        "g_sources": 9
+        "g_sources": 9,
+        "c_answer": true,
+        "c_sources": 5,
+        "c_plenty": 0,
+        "c_topRival": "플로팅아일랜드",
+        "c_rivalHits": 1,
+        "x_answer": true,
+        "x_sources": 19,
+        "x_plenty": 0,
+        "x_topRival": "아펠가모",
+        "x_rivalHits": 2
       },
       {
         "question": "서울 실내 단독홀 웨딩",
@@ -129,7 +169,17 @@
         "g_plenty": 0,
         "g_topRival": "노블발렌티",
         "g_rivalHits": 1,
-        "g_sources": 7
+        "g_sources": 7,
+        "c_answer": false,
+        "c_sources": 8,
+        "c_plenty": 0,
+        "c_topRival": "-",
+        "c_rivalHits": 0,
+        "x_answer": false,
+        "x_sources": 15,
+        "x_plenty": 0,
+        "x_topRival": "더컨벤션",
+        "x_rivalHits": 2
       },
       {
         "question": "어두운 웨딩홀 추천",
@@ -144,7 +194,17 @@
         "g_plenty": 0,
         "g_topRival": "소노펠리체",
         "g_rivalHits": 1,
-        "g_sources": 8
+        "g_sources": 8,
+        "c_answer": false,
+        "c_sources": 0,
+        "c_plenty": 0,
+        "c_topRival": "-",
+        "c_rivalHits": 0,
+        "x_answer": false,
+        "x_sources": 16,
+        "x_plenty": 0,
+        "x_topRival": "엘타워",
+        "x_rivalHits": 2
       },
       {
         "question": "동시예식 웨딩홀 추천",
@@ -159,7 +219,17 @@
         "g_plenty": 0,
         "g_topRival": "빌라드지디",
         "g_rivalHits": 1,
-        "g_sources": 7
+        "g_sources": 7,
+        "c_answer": false,
+        "c_sources": 10,
+        "c_plenty": 0,
+        "c_topRival": "-",
+        "c_rivalHits": 0,
+        "x_answer": false,
+        "x_sources": 16,
+        "x_plenty": 0,
+        "x_topRival": "엘타워",
+        "x_rivalHits": 2
       },
       {
         "question": "호텔식 웨딩홀 서울",
@@ -174,7 +244,17 @@
         "g_plenty": 0,
         "g_topRival": "그랜드힐",
         "g_rivalHits": 1,
-        "g_sources": 12
+        "g_sources": 12,
+        "c_answer": false,
+        "c_sources": 16,
+        "c_plenty": 0,
+        "c_topRival": "그랜드하얏트",
+        "c_rivalHits": 1,
+        "x_answer": false,
+        "x_sources": 16,
+        "x_plenty": 0,
+        "x_topRival": "그랜드하얏트",
+        "x_rivalHits": 1
       },
       {
         "question": "코스요리 웨딩홀 서울",
@@ -189,7 +269,17 @@
         "g_plenty": 0,
         "g_topRival": "소노펠리체",
         "g_rivalHits": 1,
-        "g_sources": 11
+        "g_sources": 11,
+        "c_answer": false,
+        "c_sources": 11,
+        "c_plenty": 0,
+        "c_topRival": "그랜드하얏트",
+        "c_rivalHits": 1,
+        "x_answer": false,
+        "x_sources": 14,
+        "x_plenty": 0,
+        "x_topRival": "더채플",
+        "x_rivalHits": 2
       },
       {
         "question": "지방하객 많은 웨딩홀",
@@ -204,14 +294,28 @@
         "g_plenty": 0,
         "g_topRival": "더컨벤션",
         "g_rivalHits": 2,
-        "g_sources": 8
+        "g_sources": 8,
+        "c_answer": false,
+        "c_sources": 5,
+        "c_plenty": 0,
+        "c_topRival": "그랜드하얏트",
+        "c_rivalHits": 1,
+        "x_answer": false,
+        "x_sources": 17,
+        "x_plenty": 0,
+        "x_topRival": "엘타워",
+        "x_rivalHits": 1
       }
     ],
     "mentioned_q": 2,
     "total_q": 10,
     "next_step": "「서울 실내 단독홀 웨딩」를 제목에 그대로 넣은 블로그 글 발행부터 — 첫 두 줄에 직접 답변(위치·수용인원·특징), 본문은 Q&A 소제목. 빌라드지디 추월까지 2건 필요 — 글 발행 후 카페 후기 1건에 같은 문구가 언급되게 하세요.",
     "google_enabled": true,
-    "google_measured_at": "2026-10-06"
+    "google_measured_at": "2026-10-06",
+    "chatgpt_enabled": true,
+    "chatgpt_measured_at": "2026-10-12",
+    "claude_enabled": true,
+    "claude_measured_at": "2026-10-12"
   },
   "ga4": {
     "enabled": true,
