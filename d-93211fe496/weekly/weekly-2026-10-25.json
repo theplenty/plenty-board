@@ -502,12 +502,12 @@
         "views": 26
       },
       {
-        "name": "/hotel-style/",
+        "name": "호텔식·코스요리 안내",
         "path": "/hotel-style/",
         "views": 26
       },
       {
-        "name": "/access/",
+        "name": "지방 하객 교통·주차 안내",
         "path": "/access/",
         "views": 14
       }
