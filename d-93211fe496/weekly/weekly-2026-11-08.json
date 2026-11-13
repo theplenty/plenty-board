@@ -3,7 +3,7 @@
     "2026-11-02",
     "2026-11-08"
   ],
-  "generated_at": "2026-11-12T09:06:06.127887+09:00",
+  "generated_at": "2026-11-13T09:06:10.941634+09:00",
   "totals": {
     "spend": 233047,
     "clicks": 252,
@@ -21,32 +21,32 @@
   ],
   "trends": [
     {
-      "keyword": "플렌티컨벤션",
-      "delta": 3.5
-    },
-    {
-      "keyword": "플렌티 웨딩",
-      "delta": 3.5
-    },
-    {
       "keyword": "단독홀 웨딩",
-      "delta": 0.0
+      "delta": 5.6
     },
     {
       "keyword": "단독예식",
-      "delta": 0.0
+      "delta": 5.6
     },
     {
       "keyword": "어두운 웨딩홀",
-      "delta": 0.0
+      "delta": 5.6
+    },
+    {
+      "keyword": "플렌티컨벤션",
+      "delta": 3.3
+    },
+    {
+      "keyword": "플렌티 웨딩",
+      "delta": 3.3
     },
     {
       "keyword": "강남 웨딩홀",
-      "delta": -17.0
+      "delta": -15.8
     },
     {
       "keyword": "서초 웨딩홀",
-      "delta": -17.0
+      "delta": -15.8
     }
   ],
   "strategy": [
@@ -85,11 +85,11 @@
         "question": "서초 웨딩홀 추천",
         "results": 30,
         "plenty": 1,
-        "topRival": "엘타워",
-        "rivalHits": 3,
-        "need": 3,
+        "topRival": "더컨벤션",
+        "rivalHits": 4,
+        "need": 4,
         "state": "열세",
-        "action": "기존 언급 글 1건의 제목·첫 문단에 「서초 웨딩홀 추천」 문구가 정확히 들어가게 보강하고, 신규 글·카페 후기로 3건 추가 확보하면 엘타워(3건)를 추월합니다.",
+        "action": "기존 언급 글 1건의 제목·첫 문단에 「서초 웨딩홀 추천」 문구가 정확히 들어가게 보강하고, 신규 글·카페 후기로 4건 추가 확보하면 더컨벤션(4건)를 추월합니다.",
         "g_answer": false,
         "g_plenty": 0,
         "g_topRival": "아펠가모",
@@ -210,11 +210,11 @@
         "question": "동시예식 웨딩홀 추천",
         "results": 30,
         "plenty": 1,
-        "topRival": "엘타워",
-        "rivalHits": 1,
-        "need": 1,
+        "topRival": "그랜드힐",
+        "rivalHits": 3,
+        "need": 3,
         "state": "열세",
-        "action": "기존 언급 글 1건의 제목·첫 문단에 「동시예식 웨딩홀 추천」 문구가 정확히 들어가게 보강하고, 신규 글·카페 후기로 1건 추가 확보하면 엘타워(1건)를 추월합니다.",
+        "action": "기존 언급 글 1건의 제목·첫 문단에 「동시예식 웨딩홀 추천」 문구가 정확히 들어가게 보강하고, 신규 글·카페 후기로 3건 추가 확보하면 그랜드힐(3건)를 추월합니다.",
         "g_answer": false,
         "g_plenty": 0,
         "g_topRival": "빌라드지디",
@@ -319,37 +319,44 @@
   },
   "ga4": {
     "enabled": true,
-    "since": "2026-10-15",
-    "until": "2026-11-11",
+    "since": "2026-10-16",
+    "until": "2026-11-12",
     "property_id": "536793119",
     "note": "",
     "totals": {
-      "users": 1139,
-      "sessions": 1601,
-      "views": 2756,
-      "engagement": 70.4
+      "users": 1148,
+      "sessions": 1616,
+      "views": 2763,
+      "engagement": 70.3
     },
     "channels": [
       {
         "name": "검색(자연유입)",
         "raw": "Organic Search",
         "note": "",
-        "sessions": 902,
-        "users": 676
+        "sessions": 915,
+        "users": 679
       },
       {
         "name": "직접 방문",
         "raw": "Direct",
         "note": "주소를 직접 입력하거나 즐겨찾기로 들어온 방문",
-        "sessions": 298,
-        "users": 204
+        "sessions": 294,
+        "users": 208
       },
       {
         "name": "다른 사이트 링크",
         "raw": "Referral",
         "note": "다른 웹사이트에 걸린 링크를 눌러 들어온 방문",
-        "sessions": 220,
-        "users": 167
+        "sessions": 213,
+        "users": 164
+      },
+      {
+        "name": "검색광고",
+        "raw": "Paid Search",
+        "note": "",
+        "sessions": 75,
+        "users": 48
       },
       {
         "name": "AI Assistant",
@@ -359,25 +366,18 @@
         "users": 46
       },
       {
-        "name": "검색광고",
-        "raw": "Paid Search",
-        "note": "",
-        "sessions": 64,
-        "users": 44
-      },
-      {
         "name": "SNS",
         "raw": "Organic Social",
         "note": "",
-        "sessions": 45,
-        "users": 27
+        "sessions": 47,
+        "users": 29
       },
       {
         "name": "경로 확인 안 됨",
         "raw": "Unassigned",
         "note": "어디서 왔는지 신호가 없는 방문(앱·메신저 내부 브라우저, 보안 설정 등). 측정 초기에 특히 많습니다",
-        "sessions": 19,
-        "users": 19
+        "sessions": 13,
+        "users": 13
       }
     ],
     "sources": [
@@ -385,31 +385,37 @@
         "label": "네이버 검색 (링크)",
         "source": "m.search.naver.com",
         "medium": "referral",
-        "sessions": 312
+        "sessions": 311
       },
       {
         "label": "직접 방문 (주소 입력·즐겨찾기)",
         "source": "(direct)",
         "medium": "(none)",
-        "sessions": 298
+        "sessions": 294
       },
       {
         "label": "구글 (검색)",
         "source": "google",
         "medium": "organic",
-        "sessions": 293
+        "sessions": 294
       },
       {
         "label": "네이버 (검색)",
         "source": "naver",
         "medium": "organic",
-        "sessions": 267
+        "sessions": 279
       },
       {
         "label": "네이버 지도·플레이스 (링크)",
         "source": "pcmap.place.naver.com",
         "medium": "referral",
-        "sessions": 199
+        "sessions": 193
+      },
+      {
+        "label": "네이버 (검색광고)",
+        "source": "naver",
+        "medium": "cpc",
+        "sessions": 75
       },
       {
         "label": "ChatGPT (AI 답변)",
@@ -418,28 +424,16 @@
         "sessions": 65
       },
       {
-        "label": "네이버 (검색광고)",
-        "source": "naver",
-        "medium": "cpc",
-        "sessions": 64
-      },
-      {
         "label": "네이버 블로그 (링크)",
         "source": "blog.naver.com",
         "medium": "referral",
-        "sessions": 30
+        "sessions": 31
       },
       {
         "label": "빙 (검색)",
         "source": "bing",
         "medium": "organic",
-        "sessions": 27
-      },
-      {
-        "label": "확인 안 됨",
-        "source": "(not set)",
-        "medium": "(not set)",
-        "sessions": 11
+        "sessions": 28
       },
       {
         "label": "네이버 블로그 추적 링크",
@@ -454,27 +448,33 @@
         "sessions": 8
       },
       {
-        "label": "balsong.com (링크)",
-        "source": "balsong.com",
+        "label": "확인 안 됨",
+        "source": "(not set)",
+        "medium": "(not set)",
+        "sessions": 5
+      },
+      {
+        "label": "aocr.org (링크)",
+        "source": "aocr.org",
         "medium": "referral",
-        "sessions": 4
+        "sessions": 3
       }
     ],
     "pages": [
       {
         "name": "홈",
         "path": "/",
-        "views": 1592
+        "views": 1599
       },
       {
         "name": "대관 가능일 확인",
         "path": "/schedule/",
-        "views": 665
+        "views": 664
       },
       {
         "name": "오시는 길·주차",
         "path": "/location/",
-        "views": 152
+        "views": 153
       },
       {
         "name": "웨딩홀 안내",
@@ -484,7 +484,7 @@
       {
         "name": "FAQ",
         "path": "/faq/",
-        "views": 56
+        "views": 51
       },
       {
         "name": "호텔식·코스요리 안내",
@@ -494,7 +494,7 @@
       {
         "name": "기업행사·컨퍼런스",
         "path": "/convention/",
-        "views": 39
+        "views": 37
       },
       {
         "name": "어두운 웨딩홀 안내",
@@ -504,20 +504,15 @@
       {
         "name": "지방 하객 교통·주차 안내",
         "path": "/access/",
-        "views": 29
+        "views": 31
       },
       {
         "name": "고객 전용 예식 안내 페이지",
         "path": "/wedding/2eAw1gAxt2cTLaxU/",
-        "views": 24
+        "views": 27
       }
     ],
     "daily": [
-      {
-        "date": "2026-10-15",
-        "sessions": 56,
-        "users": 39
-      },
       {
         "date": "2026-10-16",
         "sessions": 52,
@@ -652,6 +647,11 @@
         "date": "2026-11-11",
         "sessions": 82,
         "users": 67
+      },
+      {
+        "date": "2026-11-12",
+        "sessions": 70,
+        "users": 54
       }
     ],
     "tracked": [
@@ -691,15 +691,15 @@
         "group": "검색광고",
         "name": "웨딩 광고 · 서브 키워드",
         "where": "조건이 붙은 긴 검색어 그룹",
-        "sessions": 10,
-        "engaged": 8,
+        "sessions": 12,
+        "engaged": 10,
         "kakao": 1
       },
       {
         "group": "검색광고",
         "name": "웨딩 광고 · 강남웨딩홀",
         "where": "강남웨딩홀·강남예식장 그룹",
-        "sessions": 15,
+        "sessions": 17,
         "engaged": 12,
         "kakao": 0
       },
@@ -707,8 +707,8 @@
         "group": "검색광고",
         "name": "광고 아래 「웨딩홀」 링크",
         "where": "웨딩 광고 밑 글자·사진 링크",
-        "sessions": 8,
-        "engaged": 7,
+        "sessions": 10,
+        "engaged": 8,
         "kakao": 1
       },
       {
@@ -723,8 +723,8 @@
         "group": "검색광고",
         "name": "기업행사 광고",
         "where": "미팅·세미나·컨퍼런스 그룹",
-        "sessions": 18,
-        "engaged": 12,
+        "sessions": 23,
+        "engaged": 15,
         "kakao": 0
       }
     ]
@@ -732,12 +732,12 @@
   "gsc": {
     "enabled": true,
     "site": "https://plentyconvention.tistory.com/",
-    "since": "2026-10-13",
-    "until": "2026-11-09",
+    "since": "2026-10-14",
+    "until": "2026-11-10",
     "totals": {
       "clicks": 17,
-      "impressions": 261,
-      "ctr": 6.5,
+      "impressions": 269,
+      "ctr": 6.3,
       "position": 10.7
     },
     "queries": [
@@ -802,12 +802,12 @@
         "position": 49
       }
     ],
-    "hidden_impressions": 246,
+    "hidden_impressions": 254,
     "pages": [
       {
         "no": "44",
         "clicks": 2,
-        "impressions": 64,
+        "impressions": 65,
         "position": 8.3,
         "title": "혼주석·가족석 배치, 결혼식 좌석은 어떻게 정하나요?",
         "url": "https://plentyconvention.tistory.com/44"
@@ -815,16 +815,16 @@
       {
         "no": "30",
         "clicks": 1,
-        "impressions": 24,
-        "position": 8.0,
+        "impressions": 25,
+        "position": 7.9,
         "title": "서울 실내 단독홀 웨딩 총정리 (위치·주차·단독홀)",
         "url": "https://plentyconvention.tistory.com/30"
       },
       {
         "no": "58",
         "clicks": 5,
-        "impressions": 23,
-        "position": 4.6,
+        "impressions": 24,
+        "position": 4.8,
         "title": "가톨릭대 동문 웨딩 할인, 하객 입장에서 본 실제 모습",
         "url": "https://plentyconvention.tistory.com/58"
       },
@@ -837,6 +837,14 @@
         "url": "https://plentyconvention.tistory.com/47"
       },
       {
+        "no": "36",
+        "clicks": 0,
+        "impressions": 12,
+        "position": 7.9,
+        "title": "층고 높은 웨딩홀 플렌티컨벤션 하객 입장에서 본 실제 모습",
+        "url": "https://plentyconvention.tistory.com/36"
+      },
+      {
         "no": "50",
         "clicks": 2,
         "impressions": 11,
@@ -845,20 +853,20 @@
         "url": "https://plentyconvention.tistory.com/50"
       },
       {
+        "no": "13",
+        "clicks": 0,
+        "impressions": 11,
+        "position": 7.5,
+        "title": "반포 웨딩홀 추천, 서초 플렌티컨벤션이 답이 되는 이유",
+        "url": "https://plentyconvention.tistory.com/13"
+      },
+      {
         "no": "11",
         "clicks": 1,
-        "impressions": 10,
+        "impressions": 9,
         "position": 10.1,
         "title": "어두운 웨딩홀 추천, 이 기준으로 고르면 됩니다",
         "url": "https://plentyconvention.tistory.com/11"
-      },
-      {
-        "no": "13",
-        "clicks": 0,
-        "impressions": 10,
-        "position": 6.7,
-        "title": "반포 웨딩홀 추천, 서초 플렌티컨벤션이 답이 되는 이유",
-        "url": "https://plentyconvention.tistory.com/13"
       },
       {
         "no": "27",
@@ -869,20 +877,12 @@
         "url": "https://plentyconvention.tistory.com/27"
       },
       {
-        "no": "36",
-        "clicks": 0,
-        "impressions": 8,
-        "position": 8.1,
-        "title": "층고 높은 웨딩홀 플렌티컨벤션 하객 입장에서 본 실제 모습",
-        "url": "https://plentyconvention.tistory.com/36"
-      },
-      {
-        "no": "48",
-        "clicks": 0,
-        "impressions": 8,
-        "position": 9.6,
-        "title": "어두운 웨딩홀, 무엇을 보고 고르면 되나요",
-        "url": "https://plentyconvention.tistory.com/48"
+        "no": "59",
+        "clicks": 1,
+        "impressions": 7,
+        "position": 13.3,
+        "title": "버진로드 긴 웨딩홀, 현장에서 직접 확인할 것",
+        "url": "https://plentyconvention.tistory.com/59"
       }
     ]
   }
