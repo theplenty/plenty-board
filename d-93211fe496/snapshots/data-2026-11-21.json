@@ -1,0 +1,888 @@
+{
+  "meta": {
+    "day": "2026-11-21",
+    "generated_at": "2026-11-22T09:05:51.148068+09:00",
+    "brand": "PLENTY CONVENTION",
+    "slogan": "for the every plenty moments"
+  },
+  "kpi": {
+    "cost": 45015.0,
+    "clicks": 47.0,
+    "conv": 0.0,
+    "cpa": 0,
+    "ctr": 2.45,
+    "cpc": 957,
+    "cost_delta": -20,
+    "clicks_delta": 57,
+    "cpc_delta": -49,
+    "cpa_delta": null,
+    "glossary": {
+      "ctr": "100회 노출당 2.5회 클릭",
+      "cpc": "클릭 1회 당 957원",
+      "cpa": "어제 전환 0건 — 전환단가 없음"
+    }
+  },
+  "adTrend": {
+    "dates": [
+      "11-15",
+      "11-16",
+      "11-17",
+      "11-18",
+      "11-19",
+      "11-20",
+      "11-21"
+    ],
+    "cost": [
+      50088.0,
+      24271.0,
+      45065.0,
+      47149.0,
+      14756.0,
+      56140.0,
+      45015.0
+    ],
+    "clicks": [
+      58.0,
+      30.0,
+      36.0,
+      43.0,
+      28.0,
+      30.0,
+      47.0
+    ]
+  },
+  "cumulative": [
+    {
+      "date": "2026-11-21",
+      "cost": 45015.0,
+      "clicks": 47.0,
+      "conv": 0.0,
+      "negative": 0
+    },
+    {
+      "date": "2026-11-20",
+      "cost": 56140.0,
+      "clicks": 30.0,
+      "conv": 0.0,
+      "negative": 0
+    },
+    {
+      "date": "2026-11-19",
+      "cost": 14756.0,
+      "clicks": 28.0,
+      "conv": 0.0,
+      "negative": 0
+    },
+    {
+      "date": "2026-11-18",
+      "cost": 47149.0,
+      "clicks": 43.0,
+      "conv": 0.0,
+      "negative": 0
+    },
+    {
+      "date": "2026-11-17",
+      "cost": 45065.0,
+      "clicks": 36.0,
+      "conv": 0.0,
+      "negative": 0
+    },
+    {
+      "date": "2026-11-16",
+      "cost": 24271.0,
+      "clicks": 30.0,
+      "conv": 0.0,
+      "negative": 0
+    },
+    {
+      "date": "2026-11-15",
+      "cost": 50088.0,
+      "clicks": 58.0,
+      "conv": 0.0,
+      "negative": 0
+    },
+    {
+      "date": "2026-11-14",
+      "cost": 49375.0,
+      "clicks": 38.0,
+      "conv": 0.0,
+      "negative": 0
+    },
+    {
+      "date": "2026-11-13",
+      "cost": 45961.0,
+      "clicks": 29.0,
+      "conv": 0.0,
+      "negative": 0
+    },
+    {
+      "date": "2026-11-12",
+      "cost": 31355.0,
+      "clicks": 17.0,
+      "conv": 0.0,
+      "negative": 0
+    }
+  ],
+  "trends": [
+    {
+      "keyword": "플렌티컨벤션",
+      "delta": 8.4
+    },
+    {
+      "keyword": "플렌티 웨딩",
+      "delta": 8.4
+    },
+    {
+      "keyword": "단독홀 웨딩",
+      "delta": 0
+    },
+    {
+      "keyword": "단독예식",
+      "delta": 0
+    },
+    {
+      "keyword": "어두운 웨딩홀",
+      "delta": 0
+    },
+    {
+      "keyword": "웨딩박람회",
+      "delta": 0,
+      "mentions": 9
+    },
+    {
+      "keyword": "식대",
+      "delta": 0,
+      "mentions": 6
+    },
+    {
+      "keyword": "드레스투어",
+      "delta": 0,
+      "mentions": 6
+    }
+  ],
+  "actions": [
+    "➕ 새 키워드 추가 검토: \"플렌티컨벤션\", \"플렌티 웨딩\", \"단독홀 웨딩\", \"단독예식\", \"어두운 웨딩홀\" — 검색 트렌드 상승 중인데 우리가 광고 안 하고 있음",
+    "⚠️ 어제 전환 0건인데 광고비 지출 — 전환단가(CPA) 산출 불가. 전환 추적(픽셀/스크립트) 확인 필요"
+  ],
+  "reputation": {
+    "stats": {
+      "total": 29,
+      "positive": 21,
+      "negative": 0,
+      "high": 0,
+      "med": 0
+    },
+    "trend": {
+      "dates": [
+        "11-15",
+        "11-16",
+        "11-17",
+        "11-18",
+        "11-19",
+        "11-20",
+        "11-21"
+      ],
+      "positive": [
+        25,
+        26,
+        24,
+        21,
+        22,
+        24,
+        21
+      ],
+      "negative": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "posts": [
+      {
+        "title": "&lt;서초구화환꽃집&gt;엘타워 더화이트베일 플렌티컨벤션 결혼식화환 꽃....",
+        "url": "https://blog.naver.com/okokok8139/224477356747",
+        "sentiment": "neutral",
+        "channel": "blog",
+        "date": "2026-11-15"
+      },
+      {
+        "title": "서초웨딩홀: 플렌티컨벤션 하객 솔직후기! 주차, 홀분위기, 음식까....",
+        "url": "https://blog.naver.com/yojne1/224471474130",
+        "sentiment": "positive",
+        "channel": "blog",
+        "date": "2026-11-10"
+      },
+      {
+        "title": "W1. 플렌티 컨벤션 예약 후기 (주차, 밥, 어두운 홀)",
+        "url": "https://blog.naver.com/jjomjjomddari_926/224469208512",
+        "sentiment": "positive",
+        "channel": "blog",
+        "date": "2026-11-08"
+      },
+      {
+        "title": "W0. 웨딩홀투어 후기 (반리엇, 엘타워, 플렌티 컨벤션)",
+        "url": "https://blog.naver.com/jjomjjomddari_926/224468754358",
+        "sentiment": "positive",
+        "channel": "blog",
+        "date": "2026-11-08"
+      },
+      {
+        "title": "서초 반포 플렌티컨벤션 26년 10월 견적 공유 - 잔여타임 혜택ㅇ(계약ㅇ)",
+        "url": "https://cafe.naver.com/makemywedding/648474",
+        "sentiment": "positive",
+        "channel": "cafe",
+        "date": ""
+      },
+      {
+        "title": "[서울/서초구] 플렌티 컨벤션",
+        "url": "https://cafe.naver.com/poohstory/262961",
+        "sentiment": "positive",
+        "channel": "cafe",
+        "date": ""
+      },
+      {
+        "title": "서울 강남 동시예식 장소 - 플렌티 컨벤션 - 본식 찐후기!",
+        "url": "https://cafe.naver.com/makemywedding/575377",
+        "sentiment": "positive",
+        "channel": "cafe",
+        "date": ""
+      },
+      {
+        "title": "플렌티컨벤션 본식후기",
+        "url": "https://cafe.naver.com/makemywedding/569598",
+        "sentiment": "positive",
+        "channel": "cafe",
+        "date": ""
+      },
+      {
+        "title": "반포 플렌티컨벤션 투어 후기 꼼꼼하게 써봅니다",
+        "url": "https://cafe.naver.com/directwedding/6702697",
+        "sentiment": "neutral",
+        "channel": "cafe",
+        "date": ""
+      },
+      {
+        "title": "플렌티컨벤션",
+        "url": "https://cafe.naver.com/poohstory/368306",
+        "sentiment": "positive",
+        "channel": "cafe",
+        "date": ""
+      },
+      {
+        "title": "플렌티컨벤션 신부대기실 보셨어요?",
+        "url": "https://cafe.naver.com/makemywedding/681144",
+        "sentiment": "positive",
+        "channel": "cafe",
+        "date": ""
+      },
+      {
+        "title": "플렌티컨벤션 솔직 하객 후기!",
+        "url": "https://cafe.naver.com/crc61class/192410",
+        "sentiment": "positive",
+        "channel": "cafe",
+        "date": ""
+      },
+      {
+        "title": "플렌티컨벤션 상담 후기",
+        "url": "https://cafe.naver.com/makemywedding/679728",
+        "sentiment": "positive",
+        "channel": "cafe",
+        "date": ""
+      },
+      {
+        "title": "플렌티컨벤션 상담 후기 !",
+        "url": "https://cafe.naver.com/ssekzoa/687628",
+        "sentiment": "positive",
+        "channel": "cafe",
+        "date": ""
+      }
+    ]
+  },
+  "insta": {
+    "followers": 582,
+    "reach": 282,
+    "engagement": 22,
+    "views": 537,
+    "likes": 13,
+    "comments": 8,
+    "saves": 1,
+    "topPosts": [
+      {
+        "caption": "💐 𝑷𝒍𝒆𝒏𝒕𝒚 𝑾𝒆𝒅𝒅𝒊𝒏𝒈 𝑭𝒍𝒐𝒘𝒆𝒓 💐 당신을 위한 단 하나의 커스텀 웨딩  플렌티컨벤션에서 준비하는 프라이빗 호텔식 동시예식  ✔️전체",
+        "url": "https://www.instagram.com/p/Df4G5VLGlFV/",
+        "engagement": 7,
+        "likes": 5
+      },
+      {
+        "caption": "예쁜 두 분의 시작을 함께할 수 있어 행복했습니다 🤍  𝑽𝒆𝒏𝒖𝒆 𝒃𝒚. #플렌티컨벤션 𝑭𝒍𝒐𝒘𝒆𝒓 𝒃𝒚. #그래머시플라워웨딩   𝑷𝒍𝒆𝒏𝒕𝒚 ",
+        "url": "https://www.instagram.com/p/Df8dr4TEy5H/",
+        "engagement": 6,
+        "likes": 3
+      },
+      {
+        "caption": "가장 빛나는 순간, 가장 아름다운 공간에서 더욱 빛나실 수 있도록 플렌티컨벤션이 도와드릴게요 ✨  𝑽𝒆𝒏𝒖𝒆 𝒃𝒚. #플렌티컨벤션 𝑷𝒉𝒐𝒕𝒐 𝒃",
+        "url": "https://www.instagram.com/p/DfyDA4NEzfy/",
+        "engagement": 5,
+        "likes": 3
+      },
+      {
+        "caption": "💐 𝑷𝒍𝒆𝒏𝒕𝒚 𝑾𝒆𝒅𝒅𝒊𝒏𝒈 𝑭𝒍𝒐𝒘𝒆𝒓 💐 당신을 위한 단 하나의 커스텀 웨딩  𝑽𝒆𝒏𝒖𝒆 𝒃𝒚. #플렌티컨벤션 𝑭𝒍𝒐𝒘𝒆𝒓 𝒃𝒚. #그래머",
+        "url": "https://www.instagram.com/reel/Df0ztYpRDjP/",
+        "engagement": 4,
+        "likes": 2
+      },
+      {
+        "caption": "",
+        "url": "",
+        "engagement": 0,
+        "likes": 0
+      }
+    ]
+  },
+  "market": {
+    "season": {
+      "label": "가을 성수기",
+      "phase": "peak",
+      "traits": "연중 최대 예식 시즌 — 후기 콘텐츠 생산 + 내년 가을 예약 상담 동시 진행",
+      "strategy": [
+        "지금 투어 오는 커플은 내년 가을 예약자 — '내년 가을 잔여타임' 선점",
+        "단풍·야외사진 수요 — 인근 포토스팟(서리풀공원 등 사실 확인된 것만) 연계 콘텐츠",
+        "🔥 오늘의 화제어 「신혼집」 — 브리프·광고 소재로 검토 (커뮤니티 언급 상승)"
+      ],
+      "next_label": "연말 (프로포즈 시즌)"
+    },
+    "summary": [
+      {
+        "group": "플렌티 (브랜드)",
+        "keywords": [
+          "플렌티컨벤션",
+          "플렌티웨딩",
+          "플렌티 웨딩홀"
+        ],
+        "avg": 4.8,
+        "latest": 7.0,
+        "delta_pct": 5.3
+      },
+      {
+        "group": "웨딩홀 시장 (전국)",
+        "keywords": [
+          "웨딩홀",
+          "결혼식장",
+          "웨딩홀투어"
+        ],
+        "avg": 38.6,
+        "latest": 37.6,
+        "delta_pct": -1.4
+      },
+      {
+        "group": "결혼 준비 시장",
+        "keywords": [
+          "스드메",
+          "웨딩박람회",
+          "결혼준비"
+        ],
+        "avg": 69.9,
+        "latest": 64.5,
+        "delta_pct": -4.6
+      },
+      {
+        "group": "지역 시장 (강남권)",
+        "keywords": [
+          "강남 웨딩홀",
+          "서초 웨딩홀",
+          "고속터미널 웨딩홀"
+        ],
+        "avg": 8.3,
+        "latest": 9.1,
+        "delta_pct": -9.1
+      },
+      {
+        "group": "경쟁 브랜드",
+        "keywords": [
+          "엘타워 웨딩홀",
+          "엘리에나호텔",
+          "더컨벤션 웨딩"
+        ],
+        "avg": 41.6,
+        "latest": 53.5,
+        "delta_pct": 0.3
+      }
+    ],
+    "period": [
+      "2026-10-23",
+      "2026-11-21"
+    ],
+    "insights": [
+      "브랜드 검색량은 '웨딩홀' 시장 검색량의 12.44% 수준 (같은 데이터랩 스케일 기준).",
+      "✅ 브랜드 성장률(+5.3%)이 시장(-1.4%)을 6.7%p 앞섬 — 현재 콘텐츠/광고 방향 유지.",
+      "시장 그룹 「지역 시장 (강남권)」 -9.1% 하락 (키워드: 강남 웨딩홀, 서초 웨딩홀, 고속터미널 웨딩홀)",
+      "시장 그룹 「결혼 준비 시장」 -4.6% 하락 (키워드: 스드메, 웨딩박람회, 결혼준비)",
+      "🔥 이번 주 커뮤니티 화제어: 「웨딩박람회」(9건) · 「식대」(6건) · 「드레스투어」(6건) — 블로그·카페 최신 글 제목 분석"
+    ],
+    "topics": [
+      {
+        "topic": "가을 웨딩 실예식 리포트",
+        "keywords": [
+          "가을 웨딩",
+          "10월 결혼식",
+          "본식스냅"
+        ],
+        "angle": "가을 성수기 시점 콘텐츠 — 연중 최대 예식 시즌 — 후기 콘텐츠 생산 + 내년 가을 예약 상담 동시 진행",
+        "why": "시즌 캘린더 (가을 성수기)"
+      },
+      {
+        "topic": "내년 가을 예약 가이드",
+        "keywords": [
+          "웨딩홀 예약시기",
+          "내년 가을 결혼"
+        ],
+        "angle": "가을 성수기 시점 콘텐츠 — 연중 최대 예식 시즌 — 후기 콘텐츠 생산 + 내년 가을 예약 상담 동시 진행",
+        "why": "시즌 캘린더 (가을 성수기)"
+      },
+      {
+        "topic": "「신혼집」 이야기 — 지금 예비부부가 검색하는 것",
+        "keywords": [
+          "신혼집",
+          "웨딩박람회",
+          "식대"
+        ],
+        "angle": "커뮤니티 화제어를 플렌티 검증 강점과 연결한 시의성 콘텐츠",
+        "why": "블로그·카페 최신 글 5건에서 언급"
+      },
+      {
+        "topic": "[선행] 프로포즈 받고 가장 먼저 할 일",
+        "keywords": [
+          "결혼준비",
+          "결혼준비 순서",
+          "프로포즈"
+        ],
+        "angle": "다음 시즌(연말 (프로포즈 시즌)) 검색 수요 선점 — 지금 발행해야 그때 검색에 걸림",
+        "why": "다음 시즌 = 연말 (프로포즈 시즌)"
+      }
+    ],
+    "opportunity": [
+      {
+        "keyword": "플렌티컨벤션",
+        "reason": "검색 트렌드 상승 중인데 우리 광고에 없음"
+      },
+      {
+        "keyword": "플렌티 웨딩",
+        "reason": "검색 트렌드 상승 중인데 우리 광고에 없음"
+      },
+      {
+        "keyword": "단독홀 웨딩",
+        "reason": "검색 트렌드 상승 중인데 우리 광고에 없음"
+      },
+      {
+        "keyword": "단독예식",
+        "reason": "검색 트렌드 상승 중인데 우리 광고에 없음"
+      },
+      {
+        "keyword": "어두운 웨딩홀",
+        "reason": "검색 트렌드 상승 중인데 우리 광고에 없음"
+      },
+      {
+        "keyword": "웨딩박람회",
+        "reason": "검색 트렌드 상승 중인데 우리 광고에 없음"
+      }
+    ],
+    "underperforming": []
+  },
+  "competitor": {
+    "asof": "2026-11-22",
+    "competitors": [
+      {
+        "name": "엘리에나 호텔",
+        "exposure": [],
+        "promos": [
+          {
+            "title": "[W03] 엘리에나호텔 아이폰 스냅 로맨틱시나몬 계약 후기",
+            "url": "https://blog.naver.com/chae_u97/224477785737",
+            "date": "2026-11-15",
+            "channel": "blog"
+          },
+          {
+            "title": "[강남 예식장 후기] 학동역 엘리에나 호텔 2층 컨벤션홀 하객 방문 ....",
+            "url": "https://blog.naver.com/kkang_0101/224471583310",
+            "date": "2026-11-12",
+            "channel": "blog"
+          },
+          {
+            "title": "엘리에나호텔웨딩 임페리얼홀 하객후기 | 코스요리 주차 대중교통",
+            "url": "https://blog.naver.com/alstj_1015/224471313592",
+            "date": "2026-11-10",
+            "channel": "blog"
+          },
+          {
+            "title": "강남 웨딩홀 하객 후기｜엘리에나호텔 컨벤션홀 분위기 스테이크 ....",
+            "url": "https://blog.naver.com/hamni0604/224470760318",
+            "date": "2026-11-09",
+            "channel": "blog"
+          },
+          {
+            "title": "엘리에나 아이폰스냅, 엘리에나호텔 그랜드볼룸홀 르미엘린스냅 촬....",
+            "url": "https://blog.naver.com/lumielinsnap/224467173920",
+            "date": "2026-11-06",
+            "channel": "blog"
+          }
+        ],
+        "posts": [
+          {
+            "title": "엘리에나호텔 임페리얼홀 웨딩부케 르꺄도 호접란 프리저브드 부케....",
+            "url": "https://blog.naver.com/beany_b/224486082769",
+            "date": "2026-11-21",
+            "channel": "blog"
+          },
+          {
+            "title": "[강남 엘리에나 호텔] 홈마스냅 ‘라뜨레앙’ 계약후기 (짝꿍코드 ....",
+            "url": "https://blog.naver.com/freny0326/224485778032",
+            "date": "2026-11-21",
+            "channel": "blog"
+          },
+          {
+            "title": "강남 엘리에나호텔 웨딩 하객 솔직후기 양식 코스 요리 메뉴 주차 ....",
+            "url": "https://blog.naver.com/miinvly/224485545691",
+            "date": "2026-11-21",
+            "channel": "blog"
+          },
+          {
+            "title": "주문하기 서울 논현동 엘리에나호텔 축하화환 진심 어린 마음을 가....",
+            "url": "https://blog.naver.com/flower_motors/224485569214",
+            "date": "2026-11-21",
+            "channel": "blog"
+          },
+          {
+            "title": "[강남호텔웨딩] 100% 생화로 채우는 하루, 엘리에나호텔웨딩 플라워 ....",
+            "url": "https://blog.naver.com/hotel_eliena/224484671729",
+            "date": "2026-11-20",
+            "channel": "blog"
+          }
+        ]
+      },
+      {
+        "name": "엘타워",
+        "exposure": [
+          "양재 웨딩홀",
+          "고속터미널 웨딩홀"
+        ],
+        "promos": [
+          {
+            "title": "양재 엘타워 웨딩 27년 견적 | 4개 예식홀 비교 장단점 솔직 후기",
+            "url": "https://blog.naver.com/dkrnd34/224485301522",
+            "date": "2026-11-20",
+            "channel": "blog"
+          },
+          {
+            "title": "W. 'TO박스' 서울 강남 엘타워 웨딩 포토부스 본식후기",
+            "url": "https://blog.naver.com/hmcyou/224484965846",
+            "date": "2026-11-20",
+            "channel": "blog"
+          },
+          {
+            "title": "W3. 엘타워 예식 혼주 메이크업 계약 후기｜글로우디·아룸메이크업 ....",
+            "url": "https://blog.naver.com/doriguing/224482959971",
+            "date": "2026-11-19",
+            "channel": "blog"
+          },
+          {
+            "title": "[온하 기록] 양재 엘타워 축의대 대행 후기/부대표 포함 4인 2조/금액....",
+            "url": "https://blog.naver.com/onjeon-wedding/224482239531",
+            "date": "2026-11-19",
+            "channel": "blog"
+          },
+          {
+            "title": "양재 엘타워 27년 견적 공유 | 그랜드홀·그레이스홀·오르체홀·엘하....",
+            "url": "https://blog.naver.com/hamyeo0225/224480578175",
+            "date": "2026-11-17",
+            "channel": "blog"
+          }
+        ],
+        "posts": [
+          {
+            "title": "번외)노블발렌티 삼성, 노블발렌티 대치, 양재 엘타워 웨딩홀투어 20....",
+            "url": "https://blog.naver.com/eru1004/224486347126",
+            "date": "2026-11-21",
+            "channel": "blog"
+          },
+          {
+            "title": "가성비와 가심비 모두 잡은 양재 엘타워 본식 DVD 르랑필름 계약후기",
+            "url": "https://blog.naver.com/saesol___/224485972175",
+            "date": "2026-11-21",
+            "channel": "blog"
+          },
+          {
+            "title": "양재엘타워 오르체홀 축의대 대행 | 신랑·신부 양측 진행",
+            "url": "https://blog.naver.com/celelink/224485845532",
+            "date": "2026-11-21",
+            "channel": "blog"
+          },
+          {
+            "title": "사회자가 본 엘타워 그랜드홀 | 호텔 예식과 다른 점은",
+            "url": "https://blog.naver.com/cwm_2023/224485738831",
+            "date": "2026-11-21",
+            "channel": "blog"
+          },
+          {
+            "title": "양재 엘타워 그랜드홀 하객 후기 코스 요리 식사 atm 주차 총정리",
+            "url": "https://blog.naver.com/pporiday/224456312602",
+            "date": "2026-11-21",
+            "channel": "blog"
+          }
+        ]
+      },
+      {
+        "name": "그랜드힐컨벤션",
+        "exposure": [],
+        "promos": [
+          {
+            "title": "서울 강남구 그랜드힐 컨벤션 매리유 예식 본식 스냅",
+            "url": "https://blog.naver.com/jamjamstory/224484465167",
+            "date": "2026-11-20",
+            "channel": "blog"
+          },
+          {
+            "title": "[W2] 라뜨레앙그랜드힐컨벤션 본식스냅 계약후기(짝꿍코드O)",
+            "url": "https://blog.naver.com/poemoment/224481666231",
+            "date": "2026-11-18",
+            "channel": "blog"
+          },
+          {
+            "title": "#Wedding,[꽃길필름] '그랜드힐컨벤션' 본식스냅 + dvd 계약 후기 및 할....",
+            "url": "https://blog.naver.com/zhiyun0306/224481209513",
+            "date": "2026-11-17",
+            "channel": "blog"
+          },
+          {
+            "title": "야목역 서희스타힐스 그랜드힐 2차 임의공급! 청약통장 없이 84㎡선....",
+            "url": "https://blog.naver.com/khryukhryu00/224476640881",
+            "date": "2026-11-16",
+            "channel": "blog"
+          },
+          {
+            "title": "그랜드힐컨벤션 견적·더링크호텔 견적·아펠가모 견적·라비니움 ....",
+            "url": "https://blog.naver.com/where--is/224477715139",
+            "date": "2026-11-15",
+            "channel": "blog"
+          }
+        ],
+        "posts": [
+          {
+            "title": "그랜드힐컨벤션 본식스냅｜시그니처엘리자베스 드레스, 밝은 대기....",
+            "url": "https://blog.naver.com/dayldays/224484851805",
+            "date": "2026-11-20",
+            "channel": "blog"
+          },
+          {
+            "title": "강남 그랜드힐컨벤션 플로리아홀 아이폰스냅 로지미 시작바이이명....",
+            "url": "https://blog.naver.com/rosimesnap/224484826703",
+            "date": "2026-11-20",
+            "channel": "blog"
+          },
+          {
+            "title": "[삼성역 웨딩홀] 그랜드힐 컨벤션 웨딩홀 투어 후기, 플라워 버진로....",
+            "url": "https://blog.naver.com/everypleasure/224452677515",
+            "date": "2026-11-20",
+            "channel": "blog"
+          },
+          {
+            "title": "강남 그랜드힐 컨벤션 시식 후기  플로리아홀 예비 신부의 한식 코....",
+            "url": "https://blog.naver.com/joomang86/224483681858",
+            "date": "2026-11-19",
+            "channel": "blog"
+          },
+          {
+            "title": ": [결혼준비] 그랜드힐컨벤션 본식 시식 후기 - 한식 B코스로 결정",
+            "url": "https://blog.naver.com/giantbaby1/224482589118",
+            "date": "2026-11-18",
+            "channel": "blog"
+          }
+        ]
+      },
+      {
+        "name": "플로팅아일랜드",
+        "exposure": [
+          "양재 웨딩홀",
+          "반포 웨딩홀"
+        ],
+        "promos": [
+          {
+            "title": "플로팅아일랜드 I 본식영상 I 마리도트",
+            "url": "https://blog.naver.com/marydot/224480430544",
+            "date": "2026-11-17",
+            "channel": "blog"
+          },
+          {
+            "title": "W3. 웨딩홀 변경 후기｜플로팅아일랜드 취소하고 드레스가든 계약 (....",
+            "url": "https://blog.naver.com/marry_0n/224465209683",
+            "date": "2026-11-04",
+            "channel": "blog"
+          },
+          {
+            "title": "[플로팅 아일랜드 웨딩] 한강 세빛섬의 낭만적인 선상 예식, 담다 포....",
+            "url": "https://blog.naver.com/damdaphotobox/224447244066",
+            "date": "2026-10-20",
+            "channel": "blog"
+          },
+          {
+            "title": "강남 세빛섬 플로팅아일랜드 웨딩홀 하객 후기 주차&amp;코스 뷔페정보",
+            "url": "https://blog.naver.com/dbgn5731/224445457366",
+            "date": "2026-10-18",
+            "channel": "blog"
+          },
+          {
+            "title": "플로팅아일랜드 웨딩 포토부스 계약 후기｜심플큐브",
+            "url": "https://blog.naver.com/gigi_1231/224442918991",
+            "date": "2026-10-15",
+            "channel": "blog"
+          }
+        ],
+        "posts": [
+          {
+            "title": "서울 웨딩포토테이블 ㅣ반포 세빛섬 플로팅아일랜드 설치 후기",
+            "url": "https://blog.naver.com/allesvenn00/224486495029",
+            "date": "2026-11-22",
+            "channel": "blog"
+          },
+          {
+            "title": "세빛섬 플로팅아일랜드 하객 후기 | 한강뷰 웨딩홀 코스요리, 주차·....",
+            "url": "https://blog.naver.com/worthbeing777/224479721606",
+            "date": "2026-11-16",
+            "channel": "blog"
+          },
+          {
+            "title": "반포 플로팅아일랜드 투어 후기｜27년 하반기 견적 공유⭕️ (계약X)",
+            "url": "https://blog.naver.com/ujdesign/224478313288",
+            "date": "2026-11-16",
+            "channel": "blog"
+          },
+          {
+            "title": "[하객후기] 서울 플로팅아일랜드 웨딩홀 코스요리 하객 후기 | 일요....",
+            "url": "https://blog.naver.com/being_sincerest/224478093158",
+            "date": "2026-11-15",
+            "channel": "blog"
+          },
+          {
+            "title": "세빛섬 플로팅아일랜드 FITHA 피다 돌스냅 내돈내산 추천 후기 (+2만....",
+            "url": "https://blog.naver.com/days_withus/224474997262",
+            "date": "2026-11-13",
+            "channel": "blog"
+          }
+        ]
+      }
+    ]
+  },
+  "competitorTable": {
+    "asof": "2026-06-23",
+    "rows": [
+      {
+        "name": "플렌티 컨벤션",
+        "loc": "서초 반포(고터)",
+        "pos": "단독홀 커스텀",
+        "price": "비공개(상담)",
+        "insta": "plenty.convention",
+        "blog": "운영 중",
+        "promo": "잔여타임",
+        "us": true
+      },
+      {
+        "name": "엘리에나 호텔",
+        "loc": "논현",
+        "pos": "프리미엄 호텔",
+        "price": "15~18.5만",
+        "insta": "약 8.8만",
+        "blog": "✕",
+        "promo": "잔여타임"
+      },
+      {
+        "name": "엘타워",
+        "loc": "양재",
+        "pos": "호텔형 연회",
+        "price": "13~15만",
+        "insta": "약 6.7천",
+        "blog": "✕",
+        "promo": "확인안됨"
+      },
+      {
+        "name": "그랜드힐컨벤션",
+        "loc": "대치(삼성)",
+        "pos": "클래식 컨벤션",
+        "price": "9.9~13만",
+        "insta": "약 3.5천",
+        "blog": "✕",
+        "promo": "잔여타임"
+      },
+      {
+        "name": "플로팅아일랜드(FIC)",
+        "loc": "반포 한강",
+        "pos": "한강 선상",
+        "price": "6.8~14.5만",
+        "insta": "분산",
+        "blog": "✕",
+        "promo": "부재"
+      }
+    ]
+  },
+  "content": {
+    "theme": "「단독홀 웨딩」 · 홀",
+    "targetKeyword": "단독홀 웨딩",
+    "buyerStage": "비교",
+    "audience": "「단독홀 웨딩」으로 검색하며 여러 웨딩홀을 투어·비교 중인 예비부부 (가을 성수기 예식 검토)",
+    "hooks": [
+      "단독홀이라고 다 같은 단독홀이 아닙니다 — 로비부터 홀까지, 하객 동선이 겹치지 않는 곳을 보셨나요?",
+      "투어할 때 버진로드만 보지 마세요 — 로비에서 하객이 섞이지 않는 곳인지 반드시 확인해야 하는 이유",
+      "가을 결혼식을 기억하는 하객과, 잊혀지는 하객의 차이 — 단독홀이 만드는 장면"
+    ],
+    "keyMessage": "하루 2팀, 예식 간 6시간 간격 — 플렌티컨벤션은 같은 시간대 다른 예식이 없어 로비부터 홀까지 온전히 두 분의 하객만을 위한 공간입니다.",
+    "subMessage": "단독홀의 차이는 버진로드 길이가 아니라, 하객이 로비에 들어서는 순간부터 다른 팀 사람과 마주치지 않는 동선에서 시작됩니다.",
+    "cta": "카카오톡 @plentywedding 으로 편하게 문의 주시면 잔여 타임과 비용 안내해 드립니다.",
+    "blogBrief": [
+      "[제목안] 단독홀 웨딩, 투어 전에 꼭 확인해야 할 한 가지 — 플렌티컨벤션 (고속터미널 서초 반포 단독홀 웨딩홀)",
+      "[도입 훅] 웨딩홀 투어를 다녀와도 뭔가 비슷해 보이는 이유 — '단독홀'이라는 말이 뜻하는 것이 홀마다 다릅니다. 로비에 들어서는 순간부터 하객이 다른 팀 사람을 마주치지 않는 곳인지, 오늘 그 기준 하나만 짚어드립니다.",
+      "[선언형 사실 문장 — AI·스니펫 인용 후보] 플렌티컨벤션은 고속터미널역 도보 약 10분 거리, 서울 서초구 반포대로에 위치한 단독홀 웨딩홀로, 하루 2팀·예식 간 6시간 간격으로 운영되어 같은 시간대에 다른 예식이 진행되지 않습니다.",
+      "[체크포인트 3~4개] ✔️ 단독홀: 같은 시간대 다른 예식 없음 — 로비·254평 대형 로비·홀·식사 공간 모두 우리 하객만 사용 / ✔️ 하루 2타임(토 12:00·18:00 / 일 12:00), 예식 간격 6시간 — 이전 팀 하객과 엘리베이터에서 마주치지 않습니다 / ✔️ 메인홀+서브홀 최대 400명, 주말 최대 200대 주차, 하객 4시간 무료 / ✔️ 호텔식 동시예식 — 하객이 앉은 자리 그대로 양식 코스를 받으며 예식을 봅니다(이동 없음)",
+      "[공간 이야기] 입장 순간, 장내 전체가 암전됩니다. 미디어월 큐사인과 함께 핀조명이 신랑신부에게 떨어지고, 입장을 마치면 조명이 은은하게 밝아집니다. 24m 버진로드, 천고 6.5m, 13m×4.5m 미디어월 — 이 공간을 그날 두 분 팀만 씁니다. 예식 종료 후에는 홀에 세팅된 플라워를 하객에게 플라워 랩핑 서비스로 드립니다.",
+      "[Q&A 소제목 1] 단독홀 웨딩홀이면 하객 동선이 왜 중요한가요? — 단독홀은 같은 시간대에 다른 예식이 없다는 뜻입니다. 로비 리셉션·식사·홀 입장까지 모든 동선에서 타 예식 하객과 마주치지 않아, 결혼식 전체가 두 분을 위한 하나의 흐름으로 이어집니다.",
+      "[Q&A 소제목 2] 고속터미널 웨딩홀 주차는 넉넉한가요? — 옴니버스파크 B4~B5층에 주말 최대 200대 주차가 가능하고, 하객은 4시간 무료입니다. 만차 시 도보 1분 거리 성모병원 별관 주차장을 이용하실 수 있습니다.",
+      "[마무리+CTA] 가을 성수기 잔여 타임은 상담 시 안내드립니다. 카카오톡 @plentywedding 또는 전화 010-6575-1598 로 문의 주세요. 주소: 서울 서초구 반포대로 222 옴니버스파크 로비층(L). For the every plenty moments — 당신을 위한 단 하나의 커스텀 웨딩 ✨"
+    ],
+    "cardBrief": {
+      "cover": "동시예식 아닌 웨딩홀",
+      "slides": [
+        "동시예식 아닌 웨딩홀",
+        "결혼식의 분위기는 드레스보다 먼저 공간에서 시작됩니다.",
+        "한 팀만을 위한 단독홀",
+        "입장 순간을 완성하는 버진로드",
+        "공간의 품격을 만드는 높은 층고"
+      ],
+      "cta": "상담·투어 문의 → 프로필 링크 · 카카오톡 @plentywedding"
+    },
+    "cafeTopics": [
+      {
+        "title": "[후기] 고속터미널 웨딩홀 알아보다 다녀온 서초·반포 플렌티컨벤션",
+        "hint": "실제 방문 후기 톤. 「동시예식 아닌 웨딩홀」를 체감한 장면 중심 + 약한 단점 1개로 신뢰(광고티 배제)."
+      },
+      {
+        "title": "[정보] 강남·서초 단독홀 고를 때 꼭 볼 체크포인트",
+        "hint": "정보공유 톤. 「하루 2팀, 예식 간 6시간 — 같은 시간대 다른 예식이 없어 로비부터 홀까지 온전히 우리 하객만의 공간입니다.」 같은 비교 기준을 제시. 회사명·연락처 풀세트 노출 금지."
+      },
+      {
+        "title": "[고민] 가을 성수기 웨딩홀 고민 중인데 고속터미널 플렌티컨벤션 어때요?",
+        "hint": "질문/고민 톤(비교 단계). 하객 동선·주차·6시간 여유 등 실용 포인트로 자연스럽게 유도."
+      }
+    ],
+    "hashtags": [
+      "#플렌티컨벤션",
+      "#고속터미널웨딩홀",
+      "#서초웨딩홀",
+      "#반포웨딩홀",
+      "#단독홀웨딩",
+      "#미디어월웨딩"
+    ],
+    "basis": "시즌 가을 성수기(peak) · 트렌드 「플렌티컨벤션」 · 구매단계 비교 · 소재 pillar 「홀 / 공간 / 연출」 · 경쟁사 활동 엘리에나 호텔, 엘타워",
+    "source": "소재집 · 홀 / 공간 / 연출 + LLM 확장"
+  }
+}
